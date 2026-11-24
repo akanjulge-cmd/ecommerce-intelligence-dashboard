@@ -1,0 +1,135 @@
+{
+    "algorithm": "Random Forest Regressor",
+    "n_estimators": 200,
+    "random_state": 42,
+    "test_size": 0.2,
+    "train_samples": 1406,
+    "test_samples": 352,
+    "r2_score": 0.8808121967921949,
+    "rmse": 261.70197810009614,
+    "mae": 71.55168778409096,
+    "features_count": 31,
+    "feature_columns": [
+        "Quantity Sold",
+        "Unit Price",
+        "Qty_x_Price",
+        "Year",
+        "Month",
+        "DayOfWeek",
+        "Country_Brazil",
+        "Country_Canada",
+        "Country_China",
+        "Country_France",
+        "Country_Germany",
+        "Country_India",
+        "Country_Japan",
+        "Country_Mexico",
+        "Country_South Korea",
+        "Country_United Kingdom",
+        "Country_United States",
+        "Country_Unknown",
+        "Product Category_Beauty & Personal Care",
+        "Product Category_Books & Media",
+        "Product Category_Electronics",
+        "Product Category_Health & Wellness",
+        "Product Category_Home & Kitchen",
+        "Product Category_Sports & Outdoors",
+        "Product Category_Toys & Games",
+        "Product Category_Unspecified",
+        "Order Status_Completed",
+        "Order Status_Pending",
+        "Order Status_Processing",
+        "Order Status_Refunded",
+        "Order Status_Unknown"
+    ],
+    "base_features": [
+        "Quantity Sold",
+        "Unit Price",
+        "Qty_x_Price",
+        "Year",
+        "Month",
+        "DayOfWeek",
+        "Country",
+        "Product Category",
+        "Order Status"
+    ],
+    "target_variable": "Total Sales",
+    "iqr_lower_bound": -158.07000000000002,
+    "iqr_upper_bound": 367.37,
+    "countries": [
+        "Australia",
+        "Brazil",
+        "Canada",
+        "China",
+        "France",
+        "Germany",
+        "India",
+        "Japan",
+        "Mexico",
+        "South Korea",
+        "United Kingdom",
+        "United States",
+        "Unknown"
+    ],
+    "categories": [
+        "Apparel & Accessories",
+        "Beauty & Personal Care",
+        "Books & Media",
+        "Electronics",
+        "Health & Wellness",
+        "Home & Kitchen",
+        "Sports & Outdoors",
+        "Toys & Games",
+        "Unspecified"
+    ],
+    "statuses": [
+        "Cancelled",
+        "Completed",
+        "Pending",
+        "Processing",
+        "Refunded",
+        "Unknown"
+    ],
+    "top_features": [
+        {
+            "Feature": "Qty_x_Price",
+            "Importance": 0.7265855699055256
+        },
+        {
+            "Feature": "Unit Price",
+            "Importance": 0.14820433441992495
+        },
+        {
+            "Feature": "Quantity Sold",
+            "Importance": 0.03145681835711219
+        },
+        {
+            "Feature": "Month",
+            "Importance": 0.021371582170053124
+        },
+        {
+            "Feature": "DayOfWeek",
+            "Importance": 0.01985108540294115
+        },
+        {
+            "Feature": "Year",
+            "Importance": 0.008168724364668001
+        },
+        {
+            "Feature": "Country_China",
+            "Importance": 0.004695662364518883
+        },
+        {
+            "Feature": "Order Status_Refunded",
+            "Importance": 0.004014565851030266
+        },
+        {
+            "Feature": "Order Status_Unknown",
+            "Importance": 0.00398464865988941
+        },
+        {
+            "Feature": "Order Status_Completed",
+            "Importance": 0.003438239467820641
+        }
+    ]
+}

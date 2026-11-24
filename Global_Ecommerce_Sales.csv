@@ -1,0 +1,2002 @@
+Order ID,Order Date,Country,Product Category,Quantity Sold,Unit Price,Total Sales,Order Status
+ORD-10001,2025-02-02,United States,Beauty & Personal Care,10,15.07,150.70,Pending
+ORD-10002,2026-08-04,United Kingdom,Toys & Games,8,20.14,161.12,Completed
+ORD-10003,2025-09-20,United Kingdom,Electronics,1,732.95,732.95,Cancelled
+ORD-10004,2025-05-22,China,Electronics,4,995.79,"3,983.16",Pending
+ORD-10005,2025-02-09,United States,Books & Media,4,19.44,77.76,Pending
+ORD-10006,2025-04-21,Japan,Sports & Outdoors,4,138.52,554.08,Completed
+ORD-10007,2025-10-06,Australia,Sports & Outdoors,3,205.77,617.31,Processing
+ORD-10008,2025-03-15,Germany,Health & Wellness,9,20.98,188.82,Completed
+ORD-10009,2025-05-06,Canada,,3,,,Cancelled
+ORD-10010,2025-02-09,China,Beauty & Personal Care,12,79.78,957.36,Completed
+ORD-10011,2026-03-18,United States,Books & Media,5,18.38,91.90,Completed
+ORD-10012,2025-01-28,Germany,Electronics,1,,,Completed
+ORD-10013,2025-09-17,United States,Home & Kitchen,1,173.68,173.68,Refunded
+ORD-10014,2026-05-28,United States,Home & Kitchen,2,168.21,336.42,Completed
+ORD-10015,2026-05-13,China,Beauty & Personal Care,11,47.77,525.47,Processing
+ORD-10016,2026-05-29,China,Books & Media,11,10.98,120.78,Refunded
+ORD-10017,2026-03-07,United States,Sports & Outdoors,7,221.48,"1,550.36",Completed
+ORD-10018,2025-07-26,China,Home & Kitchen,8,225.11,"1,800.88",Completed
+ORD-10019,2025-09-20,Japan,Home & Kitchen,6,49.98,299.88,Pending
+ORD-10020,2025-12-10,Germany,Beauty & Personal Care,8,84.31,674.48,Pending
+ORD-10021,2025-02-14,United Kingdom,Sports & Outdoors,5,,,Completed
+ORD-10022,2026-07-19,Germany,Sports & Outdoors,1,107.35,107.35,Completed
+ORD-10023,2025-01-22,Germany,Apparel & Accessories,5,209.28,"1,046.40",Completed
+ORD-10024,2026-03-06,China,Beauty & Personal Care,1,74.24,74.24,Pending
+ORD-10025,2025-06-17,Australia,Home & Kitchen,2,109.65,219.30,Completed
+ORD-10026,2026-04-30,Japan,Sports & Outdoors,6,133.47,800.82,Completed
+ORD-10027,2026-03-10,Canada,Books & Media,,50.30,,Cancelled
+ORD-10028,2025-03-14,United States,Beauty & Personal Care,6,45.44,272.64,Cancelled
+ORD-10029,2026-07-24,Japan,Beauty & Personal Care,2,42.61,85.22,Refunded
+ORD-10030,2025-11-15,India,Home & Kitchen,8,108.51,868.08,Refunded
+ORD-10031,2026-06-04,Australia,Home & Kitchen,4,176.71,706.84,Completed
+ORD-10032,2025-04-14,China,Apparel & Accessories,8,234.97,"1,879.76",Processing
+ORD-10033,2026-08-06,Germany,Books & Media,2,8.42,16.84,Completed
+ORD-10034,2025-10-03,China,Apparel & Accessories,7,110.21,771.47,Processing
+ORD-10035,2025-01-31,United Kingdom,Sports & Outdoors,8,73.74,589.92,Processing
+ORD-10036,2025-03-17,Germany,Electronics,1,128.99,128.99,Processing
+ORD-10037,2025-05-26,,Home & Kitchen,,173.00,,Completed
+ORD-10038,2025-04-10,United States,Sports & Outdoors,5,78.46,392.30,Cancelled
+ORD-10039,2026-09-01,China,Home & Kitchen,6,63.67,382.02,Refunded
+ORD-10040,2026-01-27,India,Home & Kitchen,6,119.09,714.54,Processing
+ORD-10041,2025-07-13,India,Sports & Outdoors,3,97.64,292.92,Completed
+ORD-10042,2026-06-11,Germany,Books & Media,7,80.12,560.84,Pending
+ORD-10043,2025-02-07,South Korea,Sports & Outdoors,7,220.99,"1,546.93",Completed
+ORD-10044,2026-08-30,Germany,Toys & Games,3,9.80,29.40,Completed
+ORD-10045,2025-02-06,China,Apparel & Accessories,7,238.93,"1,672.51",Completed
+ORD-10046,2025-11-14,,Apparel & Accessories,3,186.64,559.92,Completed
+ORD-10047,2025-08-19,Brazil,Beauty & Personal Care,7,66.02,462.14,Completed
+ORD-10048,2025-06-24,Germany,Apparel & Accessories,,82.27,,Refunded
+ORD-10049,2025-10-07,Germany,Beauty & Personal Care,6,12.62,75.72,Cancelled
+ORD-10050,2025-02-22,,Sports & Outdoors,3,84.46,253.38,Pending
+ORD-10051,2025-07-06,India,Electronics,4,"1,030.07","4,120.28",Completed
+ORD-10052,,China,Electronics,1,"1,010.60","1,010.60",Completed
+ORD-10053,2025-01-12,Australia,Health & Wellness,2,27.30,54.60,Completed
+ORD-10054,2025-02-01,United States,Health & Wellness,3,70.70,212.10,Cancelled
+ORD-10055,2026-05-29,United Kingdom,Beauty & Personal Care,6,27.30,163.80,Completed
+ORD-10056,2025-12-28,Japan,Toys & Games,11,49.22,541.42,Completed
+ORD-10057,2025-12-10,China,Electronics,4,"1,050.84","4,203.36",Completed
+ORD-10058,2025-02-28,China,Toys & Games,5,48.84,244.20,Completed
+ORD-10059,2025-12-29,China,Apparel & Accessories,2,203.97,407.94,Processing
+ORD-10060,2025-06-01,,Sports & Outdoors,8,111.19,889.52,Completed
+ORD-10061,2025-07-14,United Kingdom,Health & Wellness,6,8.12,48.72,Processing
+ORD-10062,2025-06-18,Germany,Apparel & Accessories,,199.26,,Completed
+ORD-10063,2026-01-10,,Sports & Outdoors,8,41.68,333.44,Completed
+ORD-10064,2026-09-20,Canada,Beauty & Personal Care,3,33.32,99.96,Completed
+ORD-10065,2025-01-13,Germany,Apparel & Accessories,5,127.22,636.10,Completed
+ORD-10066,2025-10-31,United Kingdom,Toys & Games,8,20.11,160.88,Completed
+ORD-10067,2026-09-12,Australia,Sports & Outdoors,3,103.03,309.09,Completed
+ORD-10068,2026-06-22,China,Apparel & Accessories,4,36.08,144.32,Refunded
+ORD-10069,2025-03-03,Germany,Toys & Games,6,63.48,380.88,Cancelled
+ORD-10070,2025-11-08,Brazil,Home & Kitchen,2,77.84,155.68,Pending
+ORD-10071,2026-04-09,United States,Apparel & Accessories,4,17.60,70.40,Pending
+ORD-10072,,Brazil,Books & Media,,43.90,,Pending
+ORD-10073,2025-07-08,United States,,6,118.74,712.44,Completed
+ORD-10074,2026-06-27,United States,Books & Media,12,21.46,257.52,Pending
+ORD-10075,2025-08-17,United Kingdom,Toys & Games,8,34.92,279.36,
+ORD-10076,2025-01-01,United States,Sports & Outdoors,3,186.10,558.30,Cancelled
+ORD-10077,2026-01-22,China,Electronics,2,697.17,"1,394.34",Refunded
+ORD-10078,2025-07-24,United States,Home & Kitchen,8,,,Completed
+ORD-10079,2025-06-12,China,Health & Wellness,4,16.99,67.96,Completed
+ORD-10080,2025-06-15,India,Health & Wellness,,20.78,,Refunded
+ORD-10081,2026-06-14,Australia,Home & Kitchen,3,,,Pending
+ORD-10082,2025-12-18,China,Health & Wellness,4,21.97,87.88,Completed
+ORD-10083,2025-12-06,United States,Apparel & Accessories,6,64.25,385.50,Completed
+ORD-10084,2025-09-02,Australia,Home & Kitchen,8,204.14,"1,633.12",Processing
+ORD-10085,2026-03-01,India,Beauty & Personal Care,2,34.80,69.60,Completed
+ORD-10086,2025-09-27,United States,Apparel & Accessories,7,,,Refunded
+ORD-10087,2026-09-13,United States,Books & Media,3,74.63,223.89,Completed
+ORD-10088,2026-04-16,United States,Sports & Outdoors,4,102.32,409.28,Processing
+ORD-10089,2026-07-19,China,Sports & Outdoors,3,34.86,104.58,Completed
+ORD-10090,2025-08-29,United States,Home & Kitchen,4,104.67,418.68,Pending
+ORD-10091,2025-08-21,Australia,Electronics,2,"1,159.94","2,319.88",Completed
+ORD-10092,2026-09-18,India,Beauty & Personal Care,12,21.21,254.52,Cancelled
+ORD-10093,2026-09-07,United States,Apparel & Accessories,7,66.47,465.29,Cancelled
+ORD-10094,2025-04-11,Mexico,Books & Media,10,21.94,219.40,Processing
+ORD-10095,2025-01-09,India,Sports & Outdoors,3,213.61,640.83,Cancelled
+ORD-10096,2026-07-01,United Kingdom,Electronics,1,,,Completed
+ORD-10097,2026-02-27,China,Electronics,2,667.10,"1,334.20",Processing
+ORD-10098,2025-02-02,United Kingdom,Sports & Outdoors,6,151.14,906.84,Completed
+ORD-10099,2026-08-01,China,Apparel & Accessories,5,197.11,985.55,Cancelled
+ORD-10100,2026-04-09,China,Health & Wellness,6,69.26,415.56,Cancelled
+ORD-10101,2026-07-01,China,Home & Kitchen,6,76.31,457.86,Completed
+ORD-10102,2026-09-17,Canada,Toys & Games,9,57.72,519.48,Completed
+ORD-10103,2025-03-09,United Kingdom,Beauty & Personal Care,11,73.65,810.15,Completed
+ORD-10104,2026-09-22,United States,Apparel & Accessories,5,29.66,148.30,Completed
+ORD-10105,2025-04-11,United States,Health & Wellness,1,66.54,66.54,
+ORD-10106,2025-01-26,China,Health & Wellness,4,84.70,338.80,Cancelled
+ORD-10107,2026-03-15,United States,Apparel & Accessories,8,73.04,584.32,Cancelled
+ORD-10108,2026-08-25,Japan,Home & Kitchen,8,104.48,835.84,Processing
+ORD-10109,2025-09-25,United States,Apparel & Accessories,3,238.74,716.22,Cancelled
+ORD-10110,2025-09-02,Germany,Toys & Games,11,51.06,561.66,Completed
+ORD-10111,2025-08-06,,Beauty & Personal Care,6,58.37,350.22,Completed
+ORD-10112,2025-12-08,United States,Apparel & Accessories,1,95.19,95.19,Processing
+ORD-10113,2025-06-27,United States,Apparel & Accessories,8,137.96,"1,103.68",Completed
+ORD-10114,2026-03-26,India,Books & Media,9,35.24,317.16,Completed
+ORD-10115,2026-04-07,Japan,Beauty & Personal Care,3,23.71,71.13,Completed
+ORD-10116,2025-11-18,United States,Toys & Games,4,71.38,285.52,Completed
+ORD-10117,2025-02-10,United States,Apparel & Accessories,6,90.86,545.16,Cancelled
+ORD-10118,2025-02-15,China,Home & Kitchen,6,45.54,273.24,Completed
+ORD-10119,2025-06-27,United States,Electronics,2,339.43,678.86,Pending
+ORD-10120,2025-08-24,United Kingdom,Books & Media,12,83.85,"1,006.20",Completed
+ORD-10121,2025-04-09,United States,Sports & Outdoors,7,218.93,"1,532.51",Completed
+ORD-10122,2025-02-03,China,Home & Kitchen,3,120.69,362.07,Completed
+ORD-10123,2025-10-21,India,Books & Media,12,39.54,474.48,Pending
+ORD-10124,2026-06-17,Mexico,Beauty & Personal Care,6,28.78,172.68,Completed
+ORD-10125,2026-06-28,United Kingdom,Beauty & Personal Care,11,74.93,824.23,Pending
+ORD-10126,,Canada,Toys & Games,3,19.16,57.48,Completed
+ORD-10127,2025-11-27,United States,Sports & Outdoors,7,178.73,"1,251.11",Completed
+ORD-10128,2025-02-09,Germany,Electronics,4,837.64,"3,350.56",Completed
+ORD-10129,2026-05-16,United States,Electronics,1,929.75,929.75,Cancelled
+ORD-10130,2025-04-18,South Korea,Apparel & Accessories,2,207.55,415.10,Processing
+ORD-10131,2025-05-30,China,Books & Media,8,73.84,590.72,
+ORD-10132,2026-01-20,China,Books & Media,5,40.19,200.95,Completed
+ORD-10133,2025-02-20,United States,Books & Media,12,18.23,218.76,Completed
+ORD-10134,2025-12-12,United Kingdom,Apparel & Accessories,7,178.13,"1,246.91",Completed
+ORD-10135,2026-01-28,United States,Home & Kitchen,3,139.01,417.03,Processing
+ORD-10136,,United States,Health & Wellness,8,53.14,425.12,Pending
+ORD-10137,2026-03-30,United Kingdom,Toys & Games,10,12.13,121.30,Completed
+ORD-10138,2026-07-09,Germany,Health & Wellness,2,25.84,51.68,Refunded
+ORD-10139,2025-01-15,United States,Apparel & Accessories,4,228.46,913.84,Refunded
+ORD-10140,2025-10-16,China,Sports & Outdoors,3,219.72,659.16,Refunded
+ORD-10141,2026-04-23,Germany,Home & Kitchen,8,54.58,436.64,Completed
+ORD-10142,2026-08-21,China,Beauty & Personal Care,,76.68,,Completed
+ORD-10143,2025-02-08,United Kingdom,Home & Kitchen,8,202.73,"1,621.84",Pending
+ORD-10144,2025-06-01,China,Apparel & Accessories,6,25.30,151.80,Processing
+ORD-10145,2026-08-13,China,Electronics,4,146.63,586.52,Completed
+ORD-10146,2026-05-06,Germany,Electronics,1,803.10,803.10,Cancelled
+ORD-10147,2026-05-30,United States,Health & Wellness,3,76.09,228.27,Pending
+ORD-10148,2026-02-22,United States,Electronics,4,146.81,587.24,Completed
+ORD-10149,2026-08-26,United States,Sports & Outdoors,2,218.36,436.72,Completed
+ORD-10150,2026-02-28,United Kingdom,Health & Wellness,9,52.80,475.20,Processing
+ORD-10151,2025-11-19,China,Toys & Games,5,38.67,193.35,Refunded
+ORD-10152,2026-09-19,United States,Health & Wellness,,73.12,,Completed
+ORD-10153,2026-01-30,,Electronics,2,780.49,"1,560.98",Completed
+ORD-10154,2025-07-07,China,Electronics,2,802.58,"1,605.16",Processing
+ORD-10155,2026-08-15,Australia,Beauty & Personal Care,9,47.31,425.79,Processing
+ORD-10156,2025-07-25,Japan,Beauty & Personal Care,4,78.16,312.64,Processing
+ORD-10157,2026-03-09,United States,Electronics,4,143.69,574.76,Completed
+ORD-10158,2026-06-16,Japan,Books & Media,5,23.17,115.85,Completed
+ORD-10159,2025-02-22,Germany,Books & Media,12,28.03,336.36,Refunded
+ORD-10160,2025-07-07,India,Home & Kitchen,6,210.64,"1,263.84",Refunded
+ORD-10161,2026-06-05,United States,Apparel & Accessories,1,187.44,187.44,Completed
+ORD-10162,2026-08-04,Australia,Sports & Outdoors,7,,,Refunded
+ORD-10163,2026-06-15,China,Home & Kitchen,1,,,
+ORD-10164,2025-06-06,Germany,Electronics,4,963.23,"3,852.92",Completed
+ORD-10165,2026-01-13,France,Sports & Outdoors,5,45.58,227.90,
+ORD-10160,2025-07-07,India,Home & Kitchen,6,210.64,"1,263.84",Refunded
+ORD-10166,2025-09-11,Germany,Apparel & Accessories,2,24.61,49.22,Completed
+ORD-10167,2026-03-03,,Electronics,2,377.01,754.02,Completed
+ORD-10168,2026-08-15,Germany,Toys & Games,3,66.84,200.52,Completed
+ORD-10169,2025-04-13,United States,Home & Kitchen,3,152.84,458.52,Completed
+ORD-10170,2026-09-12,United Kingdom,Home & Kitchen,5,183.69,918.45,Completed
+ORD-10171,2026-02-02,United States,Sports & Outdoors,3,119.12,357.36,Completed
+ORD-10172,2025-03-30,China,Beauty & Personal Care,1,56.01,56.01,Completed
+ORD-10173,2025-04-29,Japan,Beauty & Personal Care,1,68.10,68.10,Pending
+ORD-10174,2025-03-22,France,Health & Wellness,9,11.93,107.37,Processing
+ORD-10175,2026-06-30,United Kingdom,Beauty & Personal Care,2,63.70,127.40,Refunded
+ORD-10176,2026-06-04,Germany,Health & Wellness,3,11.17,33.51,Refunded
+ORD-10177,2026-06-29,Canada,Beauty & Personal Care,4,58.14,232.56,
+ORD-10178,2025-12-15,United States,Health & Wellness,6,34.36,206.16,Processing
+ORD-10179,2025-07-13,United States,Home & Kitchen,4,190.67,762.68,Completed
+ORD-10180,2025-06-23,Germany,Health & Wellness,7,48.93,342.51,Completed
+ORD-10181,2025-04-12,Brazil,Health & Wellness,1,18.84,18.84,Refunded
+ORD-10182,2025-03-23,China,Toys & Games,5,,,Completed
+ORD-10183,2026-02-21,China,Health & Wellness,8,10.25,82.00,Completed
+ORD-10184,2025-07-19,United States,Beauty & Personal Care,12,12.20,146.40,Pending
+ORD-10185,2026-09-25,South Korea,Toys & Games,12,64.36,772.32,Cancelled
+ORD-10186,2025-06-22,Canada,Apparel & Accessories,5,79.68,398.40,Completed
+ORD-10187,2025-11-25,Canada,Beauty & Personal Care,4,12.26,49.04,Pending
+ORD-10188,2026-08-22,China,Beauty & Personal Care,8,15.62,124.96,Completed
+ORD-10189,2025-02-17,China,Beauty & Personal Care,7,77.36,541.52,Completed
+ORD-10190,2025-08-26,Canada,Beauty & Personal Care,1,36.99,36.99,Refunded
+ORD-10191,2025-01-06,India,,7,46.91,328.37,Completed
+ORD-10192,2026-05-06,United States,Home & Kitchen,6,242.13,"1,452.78",Pending
+ORD-10193,2026-04-30,Canada,Sports & Outdoors,6,95.12,570.72,Processing
+ORD-10194,2025-08-27,United Kingdom,Home & Kitchen,3,49.92,149.76,Completed
+ORD-10195,2025-05-12,United States,Health & Wellness,4,65.92,263.68,Completed
+ORD-10196,2025-03-10,United Kingdom,Electronics,1,922.67,922.67,Cancelled
+ORD-10197,2026-02-13,China,Apparel & Accessories,2,113.88,227.76,Completed
+ORD-10198,2026-08-20,United Kingdom,Apparel & Accessories,4,125.38,501.52,Completed
+ORD-10199,2025-08-23,United States,Electronics,1,"1,134.50","1,134.50",Completed
+ORD-10200,2025-01-12,United States,Books & Media,9,20.48,184.32,Completed
+ORD-10201,2025-11-28,United States,Books & Media,3,29.78,89.34,Completed
+ORD-10202,2025-04-10,United States,Beauty & Personal Care,2,21.99,43.98,Refunded
+ORD-10203,2026-07-31,China,Books & Media,4,22.46,89.84,Refunded
+ORD-10204,2025-05-17,Japan,Toys & Games,7,18.08,126.56,Completed
+ORD-10205,2025-12-29,United States,Toys & Games,7,74.12,518.84,Refunded
+ORD-10206,2026-01-19,United Kingdom,Beauty & Personal Care,5,17.60,88.00,Completed
+ORD-10207,2025-01-24,United States,Health & Wellness,8,65.38,523.04,Cancelled
+ORD-10208,2026-02-03,United States,Health & Wellness,,56.05,,Completed
+ORD-10209,2025-07-12,Japan,Sports & Outdoors,2,125.13,250.26,Completed
+ORD-10210,2026-06-16,United States,Books & Media,2,69.79,139.58,Processing
+ORD-10211,2025-05-09,United Kingdom,Beauty & Personal Care,10,8.35,83.50,Completed
+ORD-10212,2025-10-12,China,Home & Kitchen,2,,,Completed
+ORD-10213,2025-03-20,United States,Home & Kitchen,4,210.71,842.84,Completed
+ORD-10214,2026-07-24,Japan,Health & Wellness,12,24.82,297.84,Completed
+ORD-10215,2025-07-31,Germany,Toys & Games,9,36.54,328.86,Cancelled
+ORD-10216,2025-08-16,United States,Health & Wellness,5,15.90,79.50,Completed
+ORD-10217,2026-07-19,China,Sports & Outdoors,1,183.95,183.95,Cancelled
+ORD-10218,2025-04-25,United Kingdom,Electronics,3,310.77,932.31,Processing
+ORD-10219,2025-07-03,United States,Sports & Outdoors,8,68.63,549.04,Completed
+ORD-10220,2026-01-02,China,Home & Kitchen,5,33.01,165.05,Processing
+ORD-10221,2025-09-13,Brazil,Apparel & Accessories,3,81.14,243.42,Completed
+ORD-10222,2025-06-03,China,Books & Media,6,57.33,343.98,Completed
+ORD-10223,2026-04-13,China,Books & Media,3,27.68,83.04,Pending
+ORD-10224,2026-04-07,China,Home & Kitchen,6,52.61,315.66,Refunded
+ORD-10225,2026-05-26,China,Books & Media,2,40.53,81.06,Cancelled
+ORD-10226,2025-11-12,United Kingdom,Books & Media,2,56.19,112.38,Refunded
+ORD-10227,2026-09-12,France,,4,172.51,690.04,Pending
+ORD-10228,2025-04-15,India,Electronics,4,504.77,"2,019.08",Cancelled
+ORD-10229,2025-12-30,China,Beauty & Personal Care,6,47.00,282.00,Completed
+ORD-10225,2026-05-26,China,Books & Media,2,40.53,81.06,Cancelled
+ORD-10230,2026-07-07,China,Electronics,4,213.27,853.08,Completed
+ORD-10231,2026-07-17,Canada,Apparel & Accessories,6,158.51,951.06,Completed
+ORD-10232,2026-04-14,South Korea,Toys & Games,1,10.92,10.92,Completed
+ORD-10233,2025-07-20,China,Beauty & Personal Care,3,9.07,27.21,Completed
+ORD-10234,2025-08-22,,,5,71.10,355.50,Processing
+ORD-10235,2026-05-13,United Kingdom,Sports & Outdoors,3,148.95,446.85,Completed
+ORD-10236,2025-09-14,Brazil,Electronics,4,577.89,"2,311.56",Pending
+ORD-10237,2025-12-29,Brazil,Sports & Outdoors,7,19.66,137.62,Processing
+ORD-10238,2026-03-15,United States,Home & Kitchen,5,239.79,"1,198.95",Completed
+ORD-10239,2026-05-21,China,Apparel & Accessories,8,154.92,"1,239.36",Completed
+ORD-10240,2025-11-06,United Kingdom,Sports & Outdoors,8,94.30,754.40,Refunded
+ORD-10241,2026-09-10,China,Health & Wellness,5,82.41,412.05,Completed
+ORD-10242,2026-03-22,Germany,Beauty & Personal Care,6,25.22,151.32,Completed
+ORD-10243,2026-01-02,China,Electronics,2,851.54,"1,703.08",Completed
+ORD-10244,2025-06-23,Germany,Electronics,3,636.41,"1,909.23",Refunded
+ORD-10245,2026-05-13,United States,Home & Kitchen,3,,,Completed
+ORD-10246,2026-09-02,United States,Sports & Outdoors,3,177.92,533.76,Completed
+ORD-10247,2025-11-24,China,Sports & Outdoors,1,152.34,152.34,Cancelled
+ORD-10248,2025-11-15,China,Apparel & Accessories,4,44.53,178.12,Cancelled
+ORD-10249,2025-06-09,China,Sports & Outdoors,7,16.64,116.48,Completed
+ORD-10250,2025-12-31,China,Books & Media,6,17.58,105.48,Completed
+ORD-10251,2026-02-09,Germany,Health & Wellness,5,49.63,248.15,Completed
+ORD-10252,2026-07-29,United States,Books & Media,11,55.92,615.12,Completed
+ORD-10253,2025-05-24,Mexico,Apparel & Accessories,6,165.61,993.66,Processing
+ORD-10254,2026-03-08,China,Electronics,4,"1,164.40","4,657.60",Pending
+ORD-10255,2025-02-02,Canada,Books & Media,5,27.16,135.80,Refunded
+ORD-10256,2026-06-29,Canada,Toys & Games,7,53.99,377.93,Completed
+ORD-10257,2025-01-18,Japan,Beauty & Personal Care,1,30.99,30.99,Completed
+ORD-10258,2025-05-13,China,Books & Media,,9.32,,Completed
+ORD-10259,2026-09-21,United States,Apparel & Accessories,5,197.46,987.30,Completed
+ORD-10260,2025-03-29,Germany,Toys & Games,2,22.00,44.00,Completed
+ORD-10261,2026-02-16,Japan,,1,42.14,42.14,Completed
+ORD-10262,2026-02-18,France,Toys & Games,11,,,Completed
+ORD-10263,2026-03-02,China,Toys & Games,12,22.49,269.88,Completed
+ORD-10264,2025-09-12,India,Toys & Games,7,44.40,310.80,
+ORD-10265,2025-06-25,Brazil,Books & Media,4,15.62,62.48,Processing
+ORD-10266,2025-02-11,United States,Health & Wellness,,40.43,,Completed
+ORD-10267,2025-04-23,,Toys & Games,1,53.12,53.12,Completed
+ORD-10268,2026-08-23,United States,Apparel & Accessories,6,119.55,717.30,Completed
+ORD-10269,2025-05-03,India,Sports & Outdoors,5,118.19,590.95,Completed
+ORD-10270,2026-04-24,Canada,Apparel & Accessories,3,210.51,631.53,Pending
+ORD-10271,2025-11-27,China,Home & Kitchen,,230.46,,Processing
+ORD-10272,2025-05-14,India,Electronics,1,476.95,476.95,Completed
+ORD-10273,2026-08-31,Japan,Health & Wellness,2,40.82,81.64,Refunded
+ORD-10274,2025-03-13,China,Books & Media,2,38.70,77.40,Refunded
+ORD-10275,2025-04-15,China,Sports & Outdoors,5,182.42,912.10,Completed
+ORD-10276,2026-03-11,United States,Sports & Outdoors,1,143.70,143.70,Processing
+ORD-10277,2026-04-01,Japan,Sports & Outdoors,6,204.60,"1,227.60",Completed
+ORD-10278,2026-02-09,Japan,Home & Kitchen,5,105.67,528.35,Processing
+ORD-10279,2025-09-05,United Kingdom,Sports & Outdoors,8,,,Completed
+ORD-10280,2025-03-10,United States,Beauty & Personal Care,6,81.75,490.50,Completed
+ORD-10281,2026-02-12,United States,Apparel & Accessories,3,221.06,663.18,Pending
+ORD-10282,2025-01-24,Canada,Books & Media,8,64.01,512.08,Completed
+ORD-10283,2025-02-14,,Sports & Outdoors,6,82.40,494.40,Completed
+ORD-10284,2026-04-07,United States,Sports & Outdoors,5,36.31,181.55,Refunded
+ORD-10285,2026-06-05,United States,,4,41.91,167.64,Refunded
+ORD-10286,2025-03-03,Mexico,Apparel & Accessories,2,93.01,186.02,Completed
+ORD-10287,2025-06-16,China,Beauty & Personal Care,3,75.81,227.43,Completed
+ORD-10288,2025-12-13,Australia,Toys & Games,,42.47,,Completed
+ORD-10289,2025-05-01,United States,Electronics,4,704.05,"2,816.20",Completed
+ORD-10290,,United States,Sports & Outdoors,7,249.14,"1,743.98",Completed
+ORD-10291,2026-01-25,India,Books & Media,12,78.52,942.24,Processing
+ORD-10292,2026-01-26,,Beauty & Personal Care,8,22.44,179.52,Cancelled
+ORD-10293,,China,Health & Wellness,5,10.38,51.90,Cancelled
+ORD-10294,2025-06-14,Mexico,Apparel & Accessories,3,188.51,565.53,Refunded
+ORD-10295,2025-11-22,China,Electronics,2,744.22,"1,488.44",Completed
+ORD-10296,2026-09-28,United States,Health & Wellness,7,27.94,195.58,Completed
+ORD-10297,2025-08-29,India,Sports & Outdoors,4,187.96,751.84,Pending
+ORD-10298,2025-05-25,China,Sports & Outdoors,2,27.43,54.86,Processing
+ORD-10299,2026-01-21,Canada,Toys & Games,4,11.67,46.68,Processing
+ORD-10300,2025-06-24,United States,Beauty & Personal Care,1,58.30,58.30,Completed
+ORD-10301,2025-07-12,United States,Apparel & Accessories,4,194.74,778.96,Completed
+ORD-10302,2025-08-31,United States,Beauty & Personal Care,11,32.63,358.93,Completed
+ORD-10303,2025-09-25,China,Sports & Outdoors,5,95.09,475.45,Processing
+ORD-10304,2025-02-03,China,Health & Wellness,2,35.70,71.40,Completed
+ORD-10305,2025-12-24,United Kingdom,Sports & Outdoors,4,,,Processing
+ORD-10306,2025-01-25,United States,Health & Wellness,6,58.65,351.90,
+ORD-10307,2025-12-17,China,Electronics,2,"1,069.38","2,138.76",Processing
+ORD-10308,2026-06-24,China,Books & Media,11,12.36,135.96,Processing
+ORD-10309,2025-07-04,China,Home & Kitchen,2,25.81,51.62,Completed
+ORD-10310,2026-03-17,Germany,Health & Wellness,4,53.77,215.08,Cancelled
+ORD-10311,2025-04-13,United States,Electronics,4,114.84,459.36,Cancelled
+ORD-10312,2025-07-20,United States,Beauty & Personal Care,2,37.46,74.92,Processing
+ORD-10313,2026-08-05,United Kingdom,Toys & Games,,51.07,,Completed
+ORD-10314,2026-04-16,India,Electronics,2,162.64,325.28,Processing
+ORD-10315,2025-04-10,India,Home & Kitchen,4,135.94,543.76,Processing
+ORD-10316,2025-07-17,Germany,Sports & Outdoors,8,161.36,"1,290.88",Completed
+ORD-10317,2025-11-27,India,,3,133.18,399.54,Completed
+ORD-10318,2025-09-10,Germany,Beauty & Personal Care,2,74.84,149.68,Pending
+ORD-10319,,China,Health & Wellness,8,50.26,402.08,Processing
+ORD-10320,2025-05-18,Germany,Home & Kitchen,3,19.03,57.09,Pending
+ORD-10321,2025-05-30,United States,Sports & Outdoors,6,113.30,679.80,Cancelled
+ORD-10317,2025-11-27,India,Electronics,3,133.18,399.54,
+ORD-10322,2026-01-18,,Health & Wellness,,18.13,,Completed
+ORD-10323,2025-10-29,China,Beauty & Personal Care,11,18.72,205.92,Completed
+ORD-10324,2025-10-10,France,Beauty & Personal Care,3,79.71,239.13,Completed
+ORD-10317,2025-11-27,India,Electronics,3,133.18,399.54,Completed
+ORD-10325,2026-03-29,India,Beauty & Personal Care,4,46.01,184.04,Refunded
+ORD-10326,2025-11-25,China,Apparel & Accessories,1,102.97,102.97,Completed
+ORD-10327,2025-08-30,United States,Electronics,4,390.06,"1,560.24",
+ORD-10328,2025-11-05,United States,Apparel & Accessories,4,179.94,719.76,Completed
+ORD-10329,2026-03-19,China,Toys & Games,6,42.64,255.84,Completed
+ORD-10330,2025-10-08,India,Health & Wellness,5,19.57,97.85,Processing
+ORD-10331,2026-09-04,South Korea,Toys & Games,1,71.76,71.76,Completed
+ORD-10317,2025-11-27,India,Electronics,3,133.18,399.54,
+ORD-10332,2025-01-18,United States,Books & Media,3,12.44,37.32,Refunded
+ORD-10333,2026-07-08,United States,Home & Kitchen,,111.66,,Pending
+ORD-10334,2026-08-10,United States,Toys & Games,8,63.25,506.00,Pending
+ORD-10335,2026-01-10,China,Health & Wellness,10,41.12,411.20,
+ORD-10336,2025-06-02,United States,Health & Wellness,9,29.32,263.88,Processing
+ORD-10337,2026-06-04,India,Home & Kitchen,1,93.74,93.74,Completed
+ORD-10338,2026-05-14,China,Health & Wellness,9,12.54,112.86,Refunded
+ORD-10339,2025-08-03,United Kingdom,Health & Wellness,12,34.36,412.32,
+ORD-10340,2026-04-08,Mexico,,6,126.59,759.54,Completed
+ORD-10341,2026-06-30,United States,Electronics,1,521.10,521.10,Completed
+ORD-10342,2025-08-28,United States,Sports & Outdoors,4,201.84,807.36,Completed
+ORD-10343,2025-07-09,United States,Apparel & Accessories,6,116.71,700.26,Completed
+ORD-10344,2026-09-05,United States,Electronics,3,"1,093.69","3,281.07",Cancelled
+ORD-10345,2026-03-23,United States,Sports & Outdoors,3,219.64,658.92,Pending
+ORD-10346,2026-04-24,United States,Books & Media,3,34.94,104.82,Completed
+ORD-10347,2025-06-07,India,Sports & Outdoors,,19.69,,Completed
+ORD-10348,2025-10-02,China,Health & Wellness,1,11.88,11.88,Completed
+ORD-10349,2026-09-22,Canada,Toys & Games,12,83.52,"1,002.24",Completed
+ORD-10350,2025-07-23,United States,Beauty & Personal Care,9,12.20,109.80,Cancelled
+ORD-10351,2025-01-23,France,Electronics,4,768.56,"3,074.24",Processing
+ORD-10352,2025-05-18,United States,Toys & Games,8,83.65,669.20,Pending
+ORD-10353,2025-03-09,United States,Toys & Games,7,58.10,406.70,Cancelled
+ORD-10354,2025-05-13,United States,Apparel & Accessories,5,102.36,511.80,Pending
+ORD-10355,2025-03-11,United States,Electronics,1,689.80,689.80,Cancelled
+ORD-10356,2025-03-27,United States,Apparel & Accessories,8,85.51,684.08,Pending
+ORD-10357,2025-02-27,Germany,Beauty & Personal Care,5,45.51,227.55,Completed
+ORD-10358,2025-06-12,China,Beauty & Personal Care,4,32.14,128.56,Refunded
+ORD-10359,2025-12-02,United States,Electronics,3,938.53,"2,815.59",Cancelled
+ORD-10360,2026-05-29,China,Beauty & Personal Care,8,13.03,104.24,
+ORD-10361,2026-05-23,China,Health & Wellness,8,30.31,242.48,Cancelled
+ORD-10362,2025-05-09,Germany,Toys & Games,4,82.28,329.12,Cancelled
+ORD-10363,2026-08-05,China,Toys & Games,11,53.98,593.78,Pending
+ORD-10364,2026-08-02,United States,Health & Wellness,11,68.74,756.14,
+ORD-10365,2025-02-22,United States,Apparel & Accessories,4,175.06,700.24,
+ORD-10366,2025-09-05,United States,Sports & Outdoors,3,,,Completed
+ORD-10367,2025-04-08,United Kingdom,Sports & Outdoors,8,167.79,"1,342.32",Processing
+ORD-10368,2026-01-17,United States,Home & Kitchen,3,62.17,186.51,Pending
+ORD-10369,2025-10-29,United States,Sports & Outdoors,4,,,Completed
+ORD-10370,2026-04-19,India,Beauty & Personal Care,4,78.68,314.72,Refunded
+ORD-10371,2025-08-03,India,Health & Wellness,8,31.15,249.20,Cancelled
+ORD-10372,2025-11-07,United States,Apparel & Accessories,6,105.24,631.44,Completed
+ORD-10373,2026-05-20,France,Electronics,3,168.85,506.55,Refunded
+ORD-10374,2025-10-03,China,Electronics,1,903.91,903.91,Completed
+ORD-10375,2025-11-25,France,Electronics,4,928.90,"3,715.60",Refunded
+ORD-10376,2025-05-02,United States,Apparel & Accessories,5,137.11,685.55,Processing
+ORD-10377,2025-11-14,Brazil,Electronics,1,"1,196.33","1,196.33",Completed
+ORD-10378,2025-07-31,China,,5,78.04,390.20,Completed
+ORD-10379,2025-01-17,Mexico,Home & Kitchen,5,169.62,848.10,Pending
+ORD-10380,2025-03-22,United States,Home & Kitchen,2,212.10,424.20,Cancelled
+ORD-10381,2026-06-26,,Health & Wellness,6,18.15,108.90,Completed
+ORD-10382,2025-09-13,China,,2,617.93,"1,235.86",Completed
+ORD-10383,2026-06-13,,Electronics,1,"1,178.98","1,178.98",
+ORD-10384,2026-03-13,Germany,Health & Wellness,11,26.30,289.30,Pending
+ORD-10385,2025-03-24,United States,Apparel & Accessories,7,130.31,912.17,Pending
+ORD-10386,2025-12-29,United States,Apparel & Accessories,3,84.90,254.70,Completed
+ORD-10387,2026-04-13,India,Toys & Games,9,21.78,196.02,Pending
+ORD-10388,2026-08-05,France,Electronics,1,968.57,968.57,Refunded
+ORD-10389,2026-05-04,India,Electronics,4,582.94,"2,331.76",Completed
+ORD-10390,2025-05-22,Australia,Health & Wellness,11,17.94,197.34,Pending
+ORD-10391,2025-09-24,United States,Books & Media,11,72.47,797.17,Completed
+ORD-10392,2025-08-29,United States,Home & Kitchen,2,223.25,446.50,Cancelled
+ORD-10393,2025-02-08,,Books & Media,9,19.95,179.55,Completed
+ORD-10394,2025-10-21,United Kingdom,Sports & Outdoors,1,97.69,97.69,Processing
+ORD-10395,2025-11-30,France,Sports & Outdoors,7,103.63,725.41,Processing
+ORD-10396,2026-04-02,China,Beauty & Personal Care,5,59.13,295.65,Completed
+ORD-10397,2025-06-19,India,Toys & Games,7,83.02,581.14,Pending
+ORD-10398,2025-03-19,Germany,Beauty & Personal Care,,63.05,,Completed
+ORD-10399,2025-09-17,Brazil,Toys & Games,7,45.68,319.76,Refunded
+ORD-10400,2025-07-08,Canada,Toys & Games,7,8.47,59.29,Processing
+ORD-10401,2026-03-14,France,Electronics,1,487.30,487.30,Pending
+ORD-10402,2026-05-28,South Korea,Sports & Outdoors,7,93.34,653.38,Refunded
+ORD-10403,2025-03-27,South Korea,Sports & Outdoors,2,214.07,428.14,Completed
+ORD-10404,2025-07-13,South Korea,Beauty & Personal Care,7,47.76,334.32,Completed
+ORD-10405,2025-02-05,Japan,Home & Kitchen,5,140.04,700.20,Pending
+ORD-10406,2026-06-09,United States,Apparel & Accessories,7,199.81,"1,398.67",Processing
+ORD-10407,2026-06-18,United States,Toys & Games,7,22.14,154.98,Completed
+ORD-10408,2026-03-30,,Health & Wellness,11,48.59,534.49,Completed
+ORD-10409,2025-02-12,United States,Books & Media,6,44.61,267.66,Completed
+ORD-10410,2026-04-24,United Kingdom,Books & Media,6,19.97,119.82,Completed
+ORD-10411,2026-03-08,China,Home & Kitchen,3,169.50,508.50,Refunded
+ORD-10412,2025-05-26,United Kingdom,Home & Kitchen,1,137.82,137.82,Pending
+ORD-10413,2025-11-15,United States,Sports & Outdoors,8,151.41,"1,211.28",Completed
+ORD-10414,2026-07-15,United Kingdom,Apparel & Accessories,8,192.75,"1,542.00",Refunded
+ORD-10408,2026-03-30,United Kingdom,Health & Wellness,11,48.59,534.49,Completed
+ORD-10415,2025-01-19,United States,,8,188.95,"1,511.60",Completed
+ORD-10416,2025-05-17,China,Apparel & Accessories,3,247.85,743.55,Refunded
+ORD-10417,2025-03-03,United States,Sports & Outdoors,5,138.91,694.55,Pending
+ORD-10418,2025-12-31,South Korea,Health & Wellness,6,62.11,372.66,Pending
+ORD-10419,2025-05-26,China,Health & Wellness,10,13.85,138.50,Completed
+ORD-10420,2025-05-30,United States,Toys & Games,4,62.92,251.68,Refunded
+ORD-10421,2026-05-15,United Kingdom,Toys & Games,,33.85,,Completed
+ORD-10422,2025-05-18,France,Beauty & Personal Care,2,82.80,165.60,Completed
+ORD-10423,2025-09-28,Australia,Apparel & Accessories,7,140.85,985.95,Cancelled
+ORD-10424,2026-04-19,United Kingdom,Home & Kitchen,4,52.69,210.76,Cancelled
+ORD-10425,2025-02-28,France,Books & Media,9,10.53,94.77,Processing
+ORD-10426,2025-08-30,United States,Apparel & Accessories,6,143.61,861.66,Completed
+ORD-10427,2026-04-14,Germany,Home & Kitchen,1,58.98,58.98,Processing
+ORD-10428,2026-05-04,United Kingdom,Toys & Games,10,60.67,606.70,Completed
+ORD-10429,2025-05-27,Canada,Apparel & Accessories,8,93.84,750.72,Completed
+ORD-10430,2026-06-29,Japan,Toys & Games,7,34.25,239.75,Completed
+ORD-10431,2026-01-19,United Kingdom,Electronics,4,399.44,"1,597.76",Refunded
+ORD-10432,2026-02-22,United States,Home & Kitchen,4,57.38,229.52,Completed
+ORD-10433,2025-09-13,United States,Toys & Games,5,18.43,92.15,Refunded
+ORD-10434,2025-12-02,Japan,Books & Media,3,78.34,235.02,Processing
+ORD-10435,2025-11-26,China,Home & Kitchen,6,126.02,756.12,Pending
+ORD-10436,2026-05-02,United Kingdom,Health & Wellness,7,9.72,68.04,Pending
+ORD-10437,2026-03-20,United States,Beauty & Personal Care,9,17.10,153.90,Cancelled
+ORD-10438,2026-06-10,United States,Books & Media,3,42.72,128.16,Completed
+ORD-10439,2026-05-06,France,Books & Media,5,65.31,326.55,Completed
+ORD-10440,2025-07-01,United States,Electronics,3,583.47,"1,750.41",Cancelled
+ORD-10441,2026-05-01,United States,Sports & Outdoors,2,239.18,478.36,Cancelled
+ORD-10442,2025-09-19,China,Beauty & Personal Care,8,37.15,297.20,Pending
+ORD-10443,2025-04-20,India,Apparel & Accessories,7,144.65,"1,012.55",Processing
+ORD-10444,2026-06-01,India,Health & Wellness,1,32.96,32.96,Pending
+ORD-10445,2026-01-26,Germany,Home & Kitchen,4,70.77,283.08,Completed
+ORD-10446,2025-04-22,South Korea,Sports & Outdoors,2,244.10,488.20,Completed
+ORD-10447,2025-06-11,United Kingdom,Apparel & Accessories,6,94.02,564.12,Processing
+ORD-10448,2026-05-13,United States,Apparel & Accessories,4,192.68,770.72,Pending
+ORD-10449,2025-03-27,Australia,Electronics,1,243.09,243.09,Completed
+ORD-10450,2025-12-19,China,Health & Wellness,12,24.19,290.28,Completed
+ORD-10451,2025-04-24,United States,Health & Wellness,2,54.60,109.20,Pending
+ORD-10452,2025-07-11,United States,Health & Wellness,5,10.71,53.55,Completed
+ORD-10453,2025-10-08,United Kingdom,Home & Kitchen,1,63.28,63.28,Processing
+ORD-10454,2025-01-28,China,Books & Media,2,34.38,68.76,Completed
+ORD-10455,2025-07-02,India,Sports & Outdoors,7,105.15,736.05,Completed
+ORD-10456,2026-08-28,Germany,Books & Media,7,78.31,548.17,Cancelled
+ORD-10457,2026-01-21,China,Books & Media,3,65.57,196.71,Completed
+ORD-10458,2025-07-26,Japan,Sports & Outdoors,8,169.43,"1,355.44",Cancelled
+ORD-10459,2025-02-17,United States,Electronics,2,"1,113.45","2,226.90",Refunded
+ORD-10460,2025-06-04,Germany,Health & Wellness,,68.01,,Cancelled
+ORD-10461,2026-02-03,United States,Sports & Outdoors,2,136.65,273.30,Cancelled
+ORD-10462,2025-02-26,Canada,Books & Media,12,23.77,285.24,Cancelled
+ORD-10463,2026-02-06,United States,Health & Wellness,6,42.90,257.40,Pending
+ORD-10464,2025-08-04,India,Health & Wellness,7,44.31,310.17,Refunded
+ORD-10465,2026-04-07,Japan,Books & Media,6,18.68,112.08,Completed
+ORD-10466,2026-01-03,United Kingdom,Health & Wellness,3,68.79,206.37,Processing
+ORD-10467,2025-07-12,China,Electronics,3,744.43,"2,233.29",Pending
+ORD-10468,2025-01-01,Germany,Apparel & Accessories,3,151.55,454.65,Completed
+ORD-10469,2026-03-19,Japan,Health & Wellness,8,24.21,193.68,Completed
+ORD-10470,2025-03-01,United Kingdom,Home & Kitchen,6,100.69,604.14,Completed
+ORD-10471,2026-01-29,Germany,Health & Wellness,4,30.26,121.04,Cancelled
+ORD-10472,2025-03-18,China,Beauty & Personal Care,9,42.34,381.06,Completed
+ORD-10473,2025-10-05,United States,Apparel & Accessories,1,187.43,187.43,Completed
+ORD-10474,2025-03-09,United Kingdom,Toys & Games,4,52.23,208.92,Completed
+ORD-10475,2025-09-16,United States,Apparel & Accessories,3,52.44,157.32,Completed
+ORD-10476,2026-01-09,United Kingdom,Electronics,4,191.47,765.88,Refunded
+ORD-10477,2025-07-21,United States,Beauty & Personal Care,5,29.40,147.00,Cancelled
+ORD-10478,2025-12-01,United Kingdom,Beauty & Personal Care,5,35.58,177.90,Refunded
+ORD-10479,2025-10-26,United States,Sports & Outdoors,1,27.02,27.02,Refunded
+ORD-10480,2026-04-18,Japan,Electronics,4,"1,165.15","4,660.60",Completed
+ORD-10481,2025-02-17,Germany,Home & Kitchen,2,186.84,373.68,
+ORD-10482,2025-03-30,Canada,Sports & Outdoors,1,87.68,87.68,Completed
+ORD-10483,2025-02-06,United Kingdom,Beauty & Personal Care,11,,,Processing
+ORD-10484,2025-11-15,Canada,Sports & Outdoors,1,244.54,244.54,Completed
+ORD-10485,2025-10-15,United States,Sports & Outdoors,1,,,Completed
+ORD-10486,2026-06-22,United States,Health & Wellness,10,15.09,150.90,Completed
+ORD-10487,2025-06-14,China,Electronics,4,"1,017.49","4,069.96",Cancelled
+ORD-10488,2026-04-22,United States,Health & Wellness,3,48.08,144.24,Completed
+ORD-10489,2026-07-25,Canada,Home & Kitchen,8,202.89,"1,623.12",Completed
+ORD-10490,2025-11-16,Germany,Beauty & Personal Care,3,76.27,228.81,Completed
+ORD-10491,2026-02-28,Japan,Toys & Games,6,72.77,436.62,Processing
+ORD-10492,2026-05-14,United States,Home & Kitchen,6,241.71,"1,450.26",Completed
+ORD-10493,2026-05-24,United States,Home & Kitchen,1,53.82,53.82,Processing
+ORD-10494,2026-07-09,India,Books & Media,7,,,Completed
+ORD-10495,2025-12-19,United States,,4,51.46,205.84,Cancelled
+ORD-10496,2025-03-06,China,Beauty & Personal Care,,29.33,,Refunded
+ORD-10497,2026-04-01,United States,,4,20.82,83.28,Pending
+ORD-10489,2026-07-25,Canada,Home & Kitchen,8,202.89,"1,623.12",Completed
+ORD-10498,2026-05-03,South Korea,Books & Media,12,28.89,346.68,Completed
+ORD-10499,2025-06-15,Germany,Sports & Outdoors,6,194.72,"1,168.32",Pending
+ORD-10500,2025-06-24,China,Health & Wellness,4,18.14,72.56,Cancelled
+ORD-10501,2025-01-07,Australia,,1,493.09,493.09,Pending
+ORD-10502,2025-06-03,United States,Health & Wellness,5,60.15,300.75,Completed
+ORD-10503,2026-09-04,Australia,Beauty & Personal Care,11,61.27,673.97,Refunded
+ORD-10504,2026-09-11,China,Books & Media,12,34.87,418.44,
+ORD-10505,2025-06-24,United Kingdom,Health & Wellness,12,12.08,144.96,Completed
+ORD-10506,2026-06-22,China,Home & Kitchen,3,157.16,471.48,Pending
+ORD-10507,2025-09-20,United States,Health & Wellness,1,25.45,25.45,Cancelled
+ORD-10508,2025-02-10,United States,Electronics,4,483.58,"1,934.32",Completed
+ORD-10509,2025-05-12,United Kingdom,Electronics,3,919.52,"2,758.56",Completed
+ORD-10510,2025-09-10,United States,Home & Kitchen,2,155.81,311.62,Completed
+ORD-10511,2025-05-15,Germany,Books & Media,5,71.59,357.95,Pending
+ORD-10512,2025-06-13,,Toys & Games,2,47.19,94.38,Cancelled
+ORD-10513,2025-04-14,Canada,Beauty & Personal Care,9,75.35,678.15,Completed
+ORD-10514,2025-06-17,France,Health & Wellness,4,31.44,125.76,Refunded
+ORD-10515,2026-09-09,Canada,Electronics,4,"1,199.65","4,798.60",Completed
+ORD-10516,2026-03-25,India,Toys & Games,2,79.15,158.30,Pending
+ORD-10517,2026-07-06,,Apparel & Accessories,1,216.60,216.60,Cancelled
+ORD-10518,2025-07-22,India,Health & Wellness,9,41.14,370.26,Processing
+ORD-10519,2025-07-05,China,Toys & Games,8,47.69,381.52,Pending
+ORD-10520,2026-08-31,China,Beauty & Personal Care,10,25.55,255.50,Processing
+ORD-10514,2025-06-17,France,Health & Wellness,4,31.44,125.76,Refunded
+ORD-10521,2025-01-07,United States,Beauty & Personal Care,11,46.38,510.18,Completed
+ORD-10522,2025-12-05,Germany,Toys & Games,12,53.05,636.60,Refunded
+ORD-10523,2025-08-11,India,Home & Kitchen,3,192.68,578.04,Processing
+ORD-10524,2025-10-20,United States,Books & Media,4,70.88,283.52,Completed
+ORD-10525,2026-01-26,China,Books & Media,2,79.33,158.66,Cancelled
+ORD-10526,2026-08-16,United States,Beauty & Personal Care,6,45.06,270.36,Cancelled
+ORD-10527,2026-08-03,Japan,Home & Kitchen,3,217.20,651.60,Processing
+ORD-10528,2026-01-08,China,Toys & Games,5,53.50,267.50,Completed
+ORD-10529,2025-10-22,Canada,Toys & Games,8,76.56,612.48,Refunded
+ORD-10530,2025-10-24,United States,Home & Kitchen,7,183.16,"1,282.12",Completed
+ORD-10531,2026-05-16,France,Home & Kitchen,3,197.42,592.26,Pending
+ORD-10532,2025-02-20,Brazil,Books & Media,1,20.39,20.39,Refunded
+ORD-10533,2026-02-20,Japan,Electronics,1,102.69,102.69,Refunded
+ORD-10534,2026-05-16,China,Health & Wellness,4,19.82,79.28,Refunded
+ORD-10535,2026-01-04,United States,Home & Kitchen,6,209.00,"1,254.00",Completed
+ORD-10536,2026-09-18,France,Electronics,4,"1,196.34","4,785.36",Completed
+ORD-10537,2025-07-26,India,Toys & Games,5,80.23,401.15,Refunded
+ORD-10538,2025-11-15,United States,Electronics,1,548.33,548.33,Pending
+ORD-10539,2025-01-28,China,Electronics,3,373.03,"1,119.09",Refunded
+ORD-10540,2026-05-16,Germany,Home & Kitchen,2,73.07,146.14,Completed
+ORD-10541,2026-08-12,United States,Apparel & Accessories,6,102.69,616.14,Refunded
+ORD-10542,2025-11-15,Germany,Sports & Outdoors,4,191.67,766.68,Refunded
+ORD-10543,2025-04-07,South Korea,Electronics,1,"1,103.85","1,103.85",Completed
+ORD-10544,2025-01-07,Germany,Sports & Outdoors,4,29.81,119.24,Cancelled
+ORD-10545,2026-02-19,China,Sports & Outdoors,4,,,Completed
+ORD-10540,2026-05-16,Germany,Home & Kitchen,2,73.07,146.14,Completed
+ORD-10546,2025-09-02,India,Electronics,1,427.64,427.64,Completed
+ORD-10547,2025-07-02,United States,Home & Kitchen,4,219.21,876.84,Refunded
+ORD-10548,2026-06-03,United States,Toys & Games,3,60.89,182.67,Completed
+ORD-10549,2025-03-30,United States,Sports & Outdoors,2,178.75,357.50,Completed
+ORD-10550,2025-06-09,China,Books & Media,1,79.88,79.88,Completed
+ORD-10551,2025-09-24,India,Health & Wellness,7,53.29,373.03,Completed
+ORD-10552,2025-07-23,China,Sports & Outdoors,,113.01,,Completed
+ORD-10553,2026-08-13,China,Books & Media,2,41.78,83.56,Cancelled
+ORD-10554,2026-06-09,United Kingdom,Electronics,2,"1,090.11","2,180.22",Pending
+ORD-10555,2025-09-19,United States,Electronics,1,637.30,637.30,Cancelled
+ORD-10556,2026-08-08,China,Sports & Outdoors,3,108.67,326.01,Completed
+ORD-10557,,South Korea,Home & Kitchen,7,212.40,"1,486.80",Completed
+ORD-10558,2026-04-17,China,Toys & Games,1,25.45,25.45,Cancelled
+ORD-10559,2025-09-07,South Korea,Toys & Games,3,29.84,89.52,Pending
+ORD-10560,2026-05-22,United States,Toys & Games,11,32.05,352.55,Completed
+ORD-10561,2026-06-21,South Korea,Electronics,4,639.21,"2,556.84",Completed
+ORD-10562,2026-08-14,Brazil,Home & Kitchen,2,249.46,498.92,Pending
+ORD-10563,2025-06-01,Canada,Home & Kitchen,5,117.17,585.85,Pending
+ORD-10564,2025-07-10,China,Toys & Games,3,69.13,207.39,Completed
+ORD-10565,2026-04-11,Japan,Apparel & Accessories,4,93.69,374.76,Processing
+ORD-10566,2025-12-12,Germany,Health & Wellness,8,45.78,366.24,Completed
+ORD-10567,2026-04-18,Japan,,3,458.97,"1,376.91",Completed
+ORD-10568,2025-07-15,United States,Toys & Games,12,41.18,494.16,Completed
+ORD-10569,2025-11-11,India,Apparel & Accessories,1,235.76,235.76,Completed
+ORD-10570,2025-05-02,United States,Toys & Games,11,82.70,909.70,Cancelled
+ORD-10571,2025-12-15,Canada,Sports & Outdoors,1,56.98,56.98,Completed
+ORD-10572,2025-01-24,Germany,Electronics,3,576.98,"1,730.94",Completed
+ORD-10573,2025-02-26,India,Health & Wellness,11,22.29,245.19,Completed
+ORD-10574,2025-06-30,China,Books & Media,12,74.42,893.04,Pending
+ORD-10575,2025-06-08,Germany,Apparel & Accessories,8,119.86,958.88,Processing
+ORD-10576,2026-09-25,Germany,Beauty & Personal Care,3,72.30,216.90,Pending
+ORD-10577,2026-04-16,China,Electronics,4,92.83,371.32,Completed
+ORD-10578,2026-04-02,United States,Health & Wellness,7,47.81,334.67,Completed
+ORD-10579,2025-04-26,India,Electronics,3,814.18,"2,442.54",Completed
+ORD-10580,2026-07-21,China,Health & Wellness,7,18.99,132.93,Cancelled
+ORD-10581,2025-01-10,India,Home & Kitchen,1,15.13,15.13,Refunded
+ORD-10582,2026-06-26,United Kingdom,Electronics,1,197.40,197.40,
+ORD-10583,2025-03-15,Brazil,Toys & Games,1,75.70,75.70,Processing
+ORD-10584,2026-08-15,China,Electronics,1,308.47,308.47,Pending
+ORD-10585,2025-10-29,United Kingdom,Toys & Games,2,72.26,144.52,Completed
+ORD-10586,2025-06-26,India,Health & Wellness,6,78.99,473.94,Completed
+ORD-10587,2026-04-08,United Kingdom,Books & Media,5,61.35,306.75,Completed
+ORD-10588,2026-09-11,Australia,Sports & Outdoors,8,181.76,"1,454.08",Pending
+ORD-10589,2025-06-06,China,Beauty & Personal Care,3,58.11,174.33,Completed
+ORD-10590,2025-07-24,United Kingdom,Health & Wellness,11,62.11,683.21,Refunded
+ORD-10591,2025-03-26,United States,Health & Wellness,4,36.90,147.60,Cancelled
+ORD-10592,2025-03-12,China,,1,51.60,51.60,Refunded
+ORD-10593,2025-06-05,China,Toys & Games,9,60.79,547.11,Pending
+ORD-10594,2026-07-23,Germany,Electronics,3,"1,184.95","3,554.85",Completed
+ORD-10595,2025-04-15,Japan,Health & Wellness,7,34.06,238.42,Completed
+ORD-10596,2026-07-01,United States,Electronics,,774.86,,Cancelled
+ORD-10597,2025-01-18,Japan,Toys & Games,7,25.26,176.82,Completed
+ORD-10598,2025-12-06,France,Health & Wellness,8,39.10,312.80,Refunded
+ORD-10599,2026-09-27,Canada,Beauty & Personal Care,9,35.05,315.45,Pending
+ORD-10600,2026-03-25,Germany,Toys & Games,7,72.65,508.55,Completed
+ORD-10600,2026-03-25,Germany,Toys & Games,7,72.65,508.55,Completed
+ORD-10599,2026-09-27,Canada,Beauty & Personal Care,9,35.05,315.45,Pending
+ORD-10601,2025-01-25,United States,Sports & Outdoors,4,,,Completed
+ORD-10602,,United States,Home & Kitchen,1,139.37,139.37,Processing
+ORD-10603,2026-01-07,France,Electronics,,247.26,,Processing
+ORD-10604,2026-04-18,United Kingdom,Apparel & Accessories,6,176.37,"1,058.22",Processing
+ORD-10605,2025-03-12,United States,Sports & Outdoors,5,52.24,261.20,Cancelled
+ORD-10606,2025-09-30,United Kingdom,Books & Media,1,30.07,30.07,Completed
+ORD-10607,2025-03-05,Australia,Beauty & Personal Care,7,9.07,63.49,Pending
+ORD-10608,2025-03-25,India,Beauty & Personal Care,4,59.20,236.80,Completed
+ORD-10609,2026-03-12,China,Electronics,2,80.39,160.78,Completed
+ORD-10610,2025-10-19,United States,Toys & Games,5,33.63,168.15,Completed
+ORD-10611,2025-04-11,China,Electronics,1,"1,001.60","1,001.60",Refunded
+ORD-10612,2026-07-31,United States,Books & Media,,63.41,,Completed
+ORD-10613,2026-07-31,United States,Toys & Games,12,40.96,491.52,Completed
+ORD-10614,2026-02-15,India,Electronics,1,"1,129.61","1,129.61",Completed
+ORD-10615,,United States,Health & Wellness,9,25.28,227.52,Completed
+ORD-10616,2026-05-15,Australia,,1,195.21,195.21,Pending
+ORD-10617,2026-02-27,China,Sports & Outdoors,2,21.71,43.42,Pending
+ORD-10618,2026-09-05,United States,Beauty & Personal Care,7,62.76,439.32,Completed
+ORD-10619,2026-02-14,Germany,Beauty & Personal Care,2,76.50,153.00,Completed
+ORD-10620,2025-07-09,China,Toys & Games,6,34.20,205.20,Completed
+ORD-10621,2025-05-26,Germany,Beauty & Personal Care,2,67.48,134.96,Completed
+ORD-10622,2025-11-11,China,Toys & Games,7,20.05,140.35,Refunded
+ORD-10623,2025-12-18,United States,Books & Media,10,40.29,402.90,Completed
+ORD-10624,2026-01-23,United States,Apparel & Accessories,1,105.86,105.86,Completed
+ORD-10625,2026-09-09,United States,Beauty & Personal Care,3,59.44,178.32,Completed
+ORD-10626,2026-07-18,Australia,Toys & Games,11,26.31,289.41,Cancelled
+ORD-10627,2025-06-22,China,Home & Kitchen,7,240.23,"1,681.61",Completed
+ORD-10628,2025-06-10,Brazil,Toys & Games,3,26.39,79.17,Pending
+ORD-10629,,,Electronics,1,190.71,190.71,Completed
+ORD-10630,2026-09-14,Japan,Apparel & Accessories,1,32.41,32.41,Pending
+ORD-10631,2026-04-18,United States,Sports & Outdoors,7,180.18,"1,261.26",Completed
+ORD-10632,2025-12-28,United States,Toys & Games,2,35.65,71.30,Refunded
+ORD-10633,2025-11-05,United States,Health & Wellness,11,25.55,281.05,Refunded
+ORD-10634,2025-04-28,France,Apparel & Accessories,4,151.69,606.76,Cancelled
+ORD-10635,2025-11-26,United States,Books & Media,9,42.42,381.78,Completed
+ORD-10636,2026-06-10,China,Toys & Games,7,51.28,358.96,Completed
+ORD-10637,2025-09-18,China,Toys & Games,12,32.93,395.16,Pending
+ORD-10638,2025-12-18,France,Electronics,2,443.95,887.90,Pending
+ORD-10639,2025-05-01,India,Health & Wellness,1,63.67,63.67,Completed
+ORD-10640,2026-08-31,,Electronics,4,"1,007.95","4,031.80",Processing
+ORD-10641,2025-03-18,China,Electronics,4,854.75,"3,419.00",Completed
+ORD-10642,2026-05-28,,Home & Kitchen,4,43.24,172.96,Completed
+ORD-10643,2025-04-28,United States,Beauty & Personal Care,6,66.21,397.26,Completed
+ORD-10644,2025-10-14,United States,Electronics,2,252.05,504.10,Completed
+ORD-10645,2025-10-21,United States,Beauty & Personal Care,6,32.69,196.14,Pending
+ORD-10646,2026-05-13,United Kingdom,Sports & Outdoors,6,152.26,913.56,Processing
+ORD-10647,2025-12-01,Canada,Books & Media,1,26.31,26.31,Completed
+ORD-10648,2026-03-24,United States,Toys & Games,,16.92,,Cancelled
+ORD-10649,,United States,Health & Wellness,4,39.68,158.72,Completed
+ORD-10650,2026-04-05,United States,Health & Wellness,7,76.73,537.11,Cancelled
+ORD-10651,2025-12-13,China,Books & Media,1,56.99,56.99,Completed
+ORD-10652,2026-01-29,United Kingdom,Apparel & Accessories,8,229.47,"1,835.76",Processing
+ORD-10653,2026-01-19,United Kingdom,Electronics,1,551.81,551.81,Processing
+ORD-10654,2025-08-30,United States,Apparel & Accessories,8,25.70,205.60,Processing
+ORD-10655,2025-05-22,China,Health & Wellness,12,11.03,132.36,Completed
+ORD-10656,2025-11-21,United States,Health & Wellness,6,48.21,289.26,Completed
+ORD-10657,2025-05-02,United States,Books & Media,11,81.22,893.42,Completed
+ORD-10658,2026-09-27,Germany,Beauty & Personal Care,2,55.02,110.04,Cancelled
+ORD-10659,,United States,Beauty & Personal Care,,45.34,,Refunded
+ORD-10660,2026-05-24,Japan,Health & Wellness,11,30.22,332.42,
+ORD-10661,2026-03-28,Japan,Toys & Games,8,58.66,469.28,Pending
+ORD-10653,2026-01-19,United Kingdom,Electronics,1,551.81,551.81,Processing
+ORD-10653,2026-01-19,United Kingdom,Electronics,1,551.81,551.81,Processing
+ORD-10662,2026-01-28,United States,Sports & Outdoors,3,135.72,407.16,Completed
+ORD-10663,2025-11-08,United States,Sports & Outdoors,4,134.21,536.84,Cancelled
+ORD-10664,,United States,Books & Media,1,16.90,16.90,Completed
+ORD-10665,2025-10-14,India,Sports & Outdoors,7,89.58,627.06,Cancelled
+ORD-10666,2026-09-06,United States,Home & Kitchen,5,82.35,411.75,Processing
+ORD-10667,2025-10-27,,Books & Media,6,82.45,494.70,Cancelled
+ORD-10668,2026-04-25,China,Apparel & Accessories,7,168.00,"1,176.00",Refunded
+ORD-10669,2025-05-28,Germany,Beauty & Personal Care,,32.37,,Pending
+ORD-10670,2026-06-11,United States,Beauty & Personal Care,1,69.27,69.27,Completed
+ORD-10671,2025-09-10,Canada,Health & Wellness,8,84.16,673.28,Completed
+ORD-10672,2025-08-09,United States,Health & Wellness,6,25.17,151.02,Completed
+ORD-10673,2025-10-24,India,Apparel & Accessories,5,150.05,750.25,Pending
+ORD-10674,2025-04-06,Germany,Apparel & Accessories,,127.44,,Processing
+ORD-10675,2025-02-06,Germany,Health & Wellness,11,31.97,351.67,Completed
+ORD-10676,,,Home & Kitchen,4,216.10,864.40,Completed
+ORD-10677,2026-07-08,Australia,Electronics,2,175.62,351.24,Cancelled
+ORD-10678,2025-03-31,Canada,Health & Wellness,9,33.43,300.87,Pending
+ORD-10679,2026-08-19,,Sports & Outdoors,5,181.16,905.80,Processing
+ORD-10680,2025-12-21,China,Health & Wellness,1,12.52,12.52,Refunded
+ORD-10681,2025-02-21,China,Home & Kitchen,,43.62,,Refunded
+ORD-10682,2025-12-01,,Toys & Games,4,60.24,240.96,
+ORD-10683,2025-06-06,Australia,Apparel & Accessories,7,172.86,"1,210.02",Refunded
+ORD-10684,,China,Beauty & Personal Care,8,30.92,247.36,Refunded
+ORD-10685,2025-01-02,China,Electronics,2,892.59,"1,785.18",
+ORD-10686,2026-04-14,United Kingdom,Electronics,,805.92,,Completed
+ORD-10687,2026-08-09,Australia,Toys & Games,1,44.74,44.74,Cancelled
+ORD-10688,2025-12-22,United States,Books & Media,1,66.00,66.00,Completed
+ORD-10687,2026-08-09,Australia,Toys & Games,1,44.74,44.74,Cancelled
+ORD-10689,2026-09-12,China,Home & Kitchen,7,221.44,"1,550.08",Completed
+ORD-10690,2025-12-15,Germany,Apparel & Accessories,4,190.82,763.28,Completed
+ORD-10691,2025-09-21,United States,Books & Media,7,26.96,188.72,Completed
+ORD-10692,2025-06-16,China,Books & Media,8,68.07,544.56,Pending
+ORD-10693,2025-12-03,China,Electronics,1,964.19,964.19,Completed
+ORD-10694,2025-11-21,United States,Electronics,3,507.29,"1,521.87",Processing
+ORD-10695,2025-04-21,Japan,,8,15.37,122.96,Pending
+ORD-10696,2025-02-13,Brazil,Beauty & Personal Care,6,68.76,412.56,Completed
+ORD-10697,2025-06-15,Japan,Toys & Games,9,40.52,364.68,Completed
+ORD-10698,2025-06-11,Japan,Electronics,2,697.91,"1,395.82",Completed
+ORD-10699,2025-07-28,United States,Toys & Games,8,,,Processing
+ORD-10700,2025-07-03,India,Beauty & Personal Care,6,38.45,230.70,Completed
+ORD-10701,2026-09-01,Brazil,Sports & Outdoors,5,22.63,113.15,Completed
+ORD-10702,2025-10-24,Canada,Sports & Outdoors,6,,,Pending
+ORD-10703,2025-07-03,Canada,Beauty & Personal Care,12,62.39,748.68,Refunded
+ORD-10704,2026-05-31,,Beauty & Personal Care,3,71.13,213.39,Completed
+ORD-10705,2026-06-06,Brazil,Health & Wellness,9,8.19,73.71,Completed
+ORD-10706,2025-04-20,China,Health & Wellness,7,59.27,414.89,Pending
+ORD-10707,2025-05-26,France,Books & Media,4,47.74,190.96,Completed
+ORD-10708,2026-03-07,Brazil,,9,81.17,730.53,Completed
+ORD-10709,2025-09-28,United States,Health & Wellness,2,10.81,21.62,Completed
+ORD-10710,2025-05-22,United States,Home & Kitchen,3,31.85,95.55,Pending
+ORD-10711,2025-06-13,United States,Home & Kitchen,7,205.33,"1,437.31",Refunded
+ORD-10712,2025-10-08,Germany,Electronics,2,606.48,"1,212.96",Pending
+ORD-10713,2025-11-06,United States,Sports & Outdoors,1,120.71,120.71,Completed
+ORD-10714,2025-05-09,United States,Toys & Games,7,36.22,253.54,Cancelled
+ORD-10715,2025-02-06,China,Beauty & Personal Care,10,42.06,420.60,Pending
+ORD-10716,2025-06-07,China,Health & Wellness,4,65.66,262.64,
+ORD-10717,2025-03-26,United States,Electronics,2,691.33,"1,382.66",Completed
+ORD-10718,2025-03-23,China,Home & Kitchen,4,22.02,88.08,Refunded
+ORD-10719,2025-10-12,China,Sports & Outdoors,7,122.82,859.74,Completed
+ORD-10720,2025-09-17,United Kingdom,Books & Media,7,23.03,161.21,Refunded
+ORD-10721,2025-07-01,United States,Health & Wellness,1,76.01,76.01,Completed
+ORD-10722,2025-06-15,France,Electronics,1,876.25,876.25,Cancelled
+ORD-10723,2025-10-16,United States,Books & Media,7,42.48,297.36,Processing
+ORD-10714,2025-05-09,United States,Toys & Games,7,36.22,253.54,Cancelled
+ORD-10724,2025-10-03,United States,Health & Wellness,12,8.36,100.32,Cancelled
+ORD-10725,2025-03-04,,Toys & Games,1,14.04,14.04,Completed
+ORD-10726,2026-08-22,Australia,Home & Kitchen,,,,Completed
+ORD-10727,2025-02-06,United States,Home & Kitchen,2,176.90,353.80,Completed
+ORD-10728,2026-01-21,Mexico,Sports & Outdoors,5,85.25,426.25,Completed
+ORD-10729,2025-04-27,France,Electronics,4,587.06,"2,348.24",Processing
+ORD-10730,2025-06-11,United States,Health & Wellness,3,17.70,53.10,Cancelled
+ORD-10731,2026-03-13,United States,Books & Media,12,64.36,772.32,Processing
+ORD-10732,2025-10-14,United States,Home & Kitchen,3,119.34,358.02,Cancelled
+ORD-10733,2025-04-06,United States,Sports & Outdoors,5,92.94,464.70,Completed
+ORD-10734,2025-05-14,Japan,Health & Wellness,9,42.60,383.40,Refunded
+ORD-10735,2026-04-13,Canada,Electronics,3,475.09,"1,425.27",Refunded
+ORD-10736,2026-04-15,China,Home & Kitchen,4,72.63,290.52,Completed
+ORD-10737,2026-04-23,United States,Electronics,4,787.09,"3,148.36",Completed
+ORD-10738,2026-07-10,United States,Beauty & Personal Care,9,35.05,315.45,Completed
+ORD-10739,2026-08-24,,Health & Wellness,11,13.78,151.58,Refunded
+ORD-10740,2025-11-25,Germany,Sports & Outdoors,2,93.67,187.34,Completed
+ORD-10741,2025-05-24,United States,Home & Kitchen,5,235.11,"1,175.55",Completed
+ORD-10742,2025-12-03,United States,Electronics,2,447.88,895.76,Cancelled
+ORD-10743,,China,Books & Media,7,77.30,541.10,Refunded
+ORD-10744,2025-11-27,United Kingdom,Sports & Outdoors,2,20.57,41.14,Completed
+ORD-10745,2025-12-16,United States,Sports & Outdoors,1,140.99,140.99,Processing
+ORD-10746,2026-07-22,China,Sports & Outdoors,4,,,Completed
+ORD-10747,2026-01-25,China,Health & Wellness,1,29.47,29.47,Completed
+ORD-10748,2025-12-05,India,Toys & Games,7,37.00,259.00,Refunded
+ORD-10749,2026-05-13,United Kingdom,,2,873.01,"1,746.02",Pending
+ORD-10750,2025-09-07,Germany,Books & Media,2,22.76,45.52,Completed
+ORD-10751,2025-03-13,Australia,Apparel & Accessories,5,202.35,"1,011.75",Completed
+ORD-10752,2026-06-09,Germany,Beauty & Personal Care,12,42.06,504.72,Pending
+ORD-10753,2026-01-16,,Sports & Outdoors,6,119.32,715.92,Processing
+ORD-10754,2025-01-25,India,Electronics,2,"1,008.88","2,017.76",Pending
+ORD-10755,2025-07-11,Japan,Health & Wellness,10,17.09,170.90,Completed
+ORD-10756,2025-05-26,United States,Toys & Games,7,8.91,62.37,Completed
+ORD-10757,2026-07-29,,Home & Kitchen,7,129.86,909.02,Pending
+ORD-10758,2026-08-12,United States,Apparel & Accessories,4,49.42,197.68,Completed
+ORD-10759,2026-06-08,Australia,Beauty & Personal Care,11,71.97,791.67,Completed
+ORD-10760,2026-09-20,Germany,Beauty & Personal Care,9,56.10,504.90,Completed
+ORD-10761,2025-11-28,Australia,Beauty & Personal Care,5,48.72,243.60,Processing
+ORD-10762,2026-04-07,United Kingdom,Toys & Games,9,63.32,569.88,Completed
+ORD-10763,2025-03-26,Japan,Home & Kitchen,,195.45,,Pending
+ORD-10764,,India,Beauty & Personal Care,2,20.41,40.82,Completed
+ORD-10765,2025-11-28,United Kingdom,Books & Media,9,62.83,565.47,Completed
+ORD-10766,2026-03-26,France,Books & Media,9,35.90,323.10,Completed
+ORD-10767,2026-05-30,,Books & Media,1,52.56,52.56,Cancelled
+ORD-10768,2026-05-07,China,Health & Wellness,2,38.87,77.74,Completed
+ORD-10769,2026-08-20,China,Beauty & Personal Care,1,80.29,80.29,Processing
+ORD-10770,2025-01-03,Japan,Books & Media,1,58.34,58.34,Pending
+ORD-10771,2025-02-21,United States,Health & Wellness,2,26.89,53.78,Processing
+ORD-10772,2025-04-12,United Kingdom,Beauty & Personal Care,8,43.69,349.52,Refunded
+ORD-10773,2026-01-10,United States,Home & Kitchen,7,45.40,317.80,Processing
+ORD-10774,2026-06-10,United States,Home & Kitchen,3,21.89,65.67,Completed
+ORD-10775,2025-10-08,Canada,Books & Media,12,31.56,378.72,Pending
+ORD-10776,2026-06-09,Australia,Toys & Games,3,30.23,90.69,Cancelled
+ORD-10777,2026-04-06,Germany,,8,94.43,755.44,Pending
+ORD-10778,2026-08-25,China,Electronics,4,"1,139.96","4,559.84",Pending
+ORD-10779,2026-09-28,United States,Health & Wellness,3,64.35,193.05,Pending
+ORD-10780,2026-02-16,China,Toys & Games,10,67.46,674.60,Pending
+ORD-10781,2025-01-30,United States,Books & Media,11,30.20,332.20,Completed
+ORD-10782,2025-07-31,Germany,Electronics,,817.92,,Refunded
+ORD-10783,2025-06-08,China,Apparel & Accessories,6,103.73,622.38,Completed
+ORD-10784,2026-02-19,United States,Apparel & Accessories,6,107.79,646.74,Refunded
+ORD-10785,2026-03-27,China,Beauty & Personal Care,4,73.80,295.20,Refunded
+ORD-10786,2025-11-16,,Toys & Games,3,15.95,47.85,
+ORD-10787,2025-08-09,Japan,Apparel & Accessories,2,190.61,381.22,Pending
+ORD-10788,2025-10-04,India,Apparel & Accessories,4,15.69,62.76,Completed
+ORD-10789,2025-08-31,China,Toys & Games,,49.56,,Completed
+ORD-10790,2025-11-11,United States,Sports & Outdoors,6,126.27,757.62,Completed
+ORD-10791,2026-09-22,Australia,Home & Kitchen,3,97.38,292.14,Completed
+ORD-10792,2026-04-16,China,Sports & Outdoors,8,168.54,"1,348.32",Completed
+ORD-10793,2026-05-13,Japan,Beauty & Personal Care,7,48.86,342.02,Pending
+ORD-10794,2026-01-26,China,Health & Wellness,2,26.71,53.42,Completed
+ORD-10795,2026-04-04,Canada,,2,80.81,161.62,Completed
+ORD-10796,2025-10-11,Japan,Beauty & Personal Care,7,,,Refunded
+ORD-10797,2026-06-28,Australia,,2,43.23,86.46,Cancelled
+ORD-10798,2026-07-11,United States,,6,125.21,751.26,Pending
+ORD-10799,2026-05-15,United States,Home & Kitchen,7,226.88,"1,588.16",Cancelled
+ORD-10800,2026-05-24,United States,Apparel & Accessories,6,118.54,711.24,
+ORD-10801,2025-03-29,India,Health & Wellness,9,20.58,185.22,Refunded
+ORD-10802,2025-05-27,United States,Apparel & Accessories,7,50.90,356.30,Completed
+ORD-10803,2025-08-31,Germany,Books & Media,2,75.63,151.26,Cancelled
+ORD-10803,2025-08-31,Germany,Books & Media,2,75.63,151.26,Cancelled
+ORD-10804,2025-10-07,Germany,Electronics,4,508.47,"2,033.88",Completed
+ORD-10805,,Australia,Books & Media,11,25.77,283.47,Pending
+ORD-10806,2026-04-14,United States,Health & Wellness,4,23.39,93.56,Completed
+ORD-10807,2026-09-09,Canada,Books & Media,12,58.66,703.92,Completed
+ORD-10808,2025-01-01,United States,Beauty & Personal Care,10,27.91,279.10,Cancelled
+ORD-10809,2026-08-31,China,Books & Media,11,71.22,783.42,Cancelled
+ORD-10810,2025-07-18,Australia,Electronics,2,916.43,"1,832.86",Completed
+ORD-10811,2025-04-27,United States,Home & Kitchen,2,136.80,273.60,Refunded
+ORD-10812,2025-02-17,South Korea,Home & Kitchen,7,246.62,"1,726.34",Completed
+ORD-10813,2025-08-11,Canada,Books & Media,6,67.25,403.50,Processing
+ORD-10814,2025-06-12,China,Electronics,4,"1,002.38","4,009.52",Processing
+ORD-10815,2026-02-28,United States,Beauty & Personal Care,1,53.37,53.37,Processing
+ORD-10816,2026-09-08,United States,Beauty & Personal Care,3,18.24,54.72,Completed
+ORD-10817,2026-01-17,China,Electronics,4,764.85,"3,059.40",Cancelled
+ORD-10818,2025-12-29,Germany,Beauty & Personal Care,6,74.37,446.22,Completed
+ORD-10819,2026-05-06,India,,2,16.56,33.12,
+ORD-10820,2025-07-30,United States,Sports & Outdoors,5,166.26,831.30,Completed
+ORD-10821,2026-09-25,India,Toys & Games,6,80.46,482.76,Processing
+ORD-10822,2026-02-23,Germany,Health & Wellness,5,65.66,328.30,Completed
+ORD-10823,2026-03-04,United Kingdom,Home & Kitchen,7,172.48,"1,207.36",Completed
+ORD-10824,2025-10-26,France,Home & Kitchen,8,,,Completed
+ORD-10825,2025-05-11,Canada,Toys & Games,8,21.96,175.68,Pending
+ORD-10826,2026-02-05,France,Home & Kitchen,7,107.50,752.50,Refunded
+ORD-10827,2025-09-22,Germany,Books & Media,1,10.23,10.23,Refunded
+ORD-10828,2026-02-15,India,Toys & Games,10,9.85,98.50,Completed
+ORD-10829,2026-02-06,China,Apparel & Accessories,5,131.79,658.95,Processing
+ORD-10830,2025-06-29,United States,Home & Kitchen,6,87.47,524.82,Processing
+ORD-10831,2025-09-10,United States,Beauty & Personal Care,11,69.18,760.98,Processing
+ORD-10832,2025-02-19,United States,Health & Wellness,,20.10,,Pending
+ORD-10833,2025-12-09,United States,Toys & Games,7,21.41,149.87,Completed
+ORD-10834,2026-01-04,Brazil,Sports & Outdoors,4,16.45,65.80,Completed
+ORD-10835,2025-08-04,United States,,5,52.03,260.15,Completed
+ORD-10836,2025-11-29,United States,Health & Wellness,9,31.32,281.88,Processing
+ORD-10837,2026-03-26,United States,Sports & Outdoors,5,143.61,718.05,Pending
+ORD-10838,2026-07-31,China,Health & Wellness,1,12.96,12.96,Cancelled
+ORD-10839,2026-06-15,United States,Books & Media,1,83.67,83.67,Completed
+ORD-10840,2025-10-16,United States,Health & Wellness,10,42.78,427.80,Completed
+ORD-10841,2025-05-13,China,Beauty & Personal Care,4,8.42,33.68,Completed
+ORD-10842,2025-02-03,Australia,Health & Wellness,1,61.00,61.00,Completed
+ORD-10843,2025-12-18,United States,Beauty & Personal Care,11,49.12,540.32,Cancelled
+ORD-10844,2025-10-16,Germany,Toys & Games,9,73.67,663.03,Pending
+ORD-10845,2026-02-10,India,Beauty & Personal Care,5,61.72,308.60,Refunded
+ORD-10846,2025-10-29,United States,Beauty & Personal Care,4,77.79,311.16,Refunded
+ORD-10847,2026-08-15,Japan,Sports & Outdoors,8,34.64,277.12,Pending
+ORD-10848,2025-04-02,,Sports & Outdoors,2,241.50,483.00,Cancelled
+ORD-10849,2025-01-02,India,Home & Kitchen,1,67.40,67.40,Completed
+ORD-10850,2026-03-07,United States,Electronics,1,107.58,107.58,Refunded
+ORD-10851,2025-01-05,United States,Sports & Outdoors,6,151.35,908.10,Completed
+ORD-10852,2025-04-05,Canada,Electronics,3,918.98,"2,756.94",Completed
+ORD-10853,2026-07-23,China,Home & Kitchen,6,70.27,421.62,Completed
+ORD-10854,2025-08-03,United States,Books & Media,5,72.50,362.50,Completed
+ORD-10855,2025-10-07,China,Toys & Games,7,84.27,589.89,Processing
+ORD-10856,2025-01-18,Canada,Apparel & Accessories,6,80.56,483.36,Completed
+ORD-10857,2026-04-19,Brazil,Sports & Outdoors,,80.02,,Refunded
+ORD-10858,2025-11-29,China,Health & Wellness,4,10.96,43.84,Completed
+ORD-10859,2025-09-14,United States,Books & Media,2,14.34,28.68,Completed
+ORD-10860,2025-06-22,United States,Apparel & Accessories,2,34.27,68.54,Processing
+ORD-10861,2025-02-05,United Kingdom,Home & Kitchen,6,179.70,"1,078.20",Pending
+ORD-10862,2026-08-02,China,Books & Media,2,58.28,116.56,Completed
+ORD-10863,2026-08-28,United States,Beauty & Personal Care,9,63.89,575.01,Refunded
+ORD-10864,2025-06-17,China,Books & Media,7,43.10,301.70,Completed
+ORD-10865,,United States,Home & Kitchen,2,199.97,399.94,Refunded
+ORD-10866,2026-05-20,,Sports & Outdoors,7,140.81,985.67,Completed
+ORD-10867,2026-08-20,China,Sports & Outdoors,7,231.77,"1,622.39",Processing
+ORD-10868,2026-04-24,United States,Apparel & Accessories,6,58.99,353.94,Completed
+ORD-10869,2026-02-26,United States,Sports & Outdoors,8,82.55,660.40,Completed
+ORD-10870,2026-09-27,Germany,Toys & Games,6,17.62,105.72,Completed
+ORD-10871,2026-01-04,India,Health & Wellness,11,38.30,421.30,Refunded
+ORD-10872,2026-05-07,United Kingdom,Sports & Outdoors,1,187.74,187.74,Completed
+ORD-10873,2025-11-26,United Kingdom,Beauty & Personal Care,5,57.15,285.75,Refunded
+ORD-10874,2025-12-08,United Kingdom,Toys & Games,2,40.57,81.14,Processing
+ORD-10875,2026-05-17,Germany,Books & Media,8,76.33,610.64,Processing
+ORD-10876,2026-07-27,India,Apparel & Accessories,5,52.24,261.20,Completed
+ORD-10877,2025-04-20,United States,,7,68.15,477.05,Processing
+ORD-10878,2026-09-12,China,Books & Media,1,57.10,57.10,Refunded
+ORD-10879,2025-10-17,United States,Health & Wellness,8,82.52,660.16,Refunded
+ORD-10880,2025-04-10,United Kingdom,Toys & Games,5,66.73,333.65,Processing
+ORD-10881,2026-03-13,Germany,Toys & Games,6,16.25,97.50,Completed
+ORD-10882,2026-09-16,Australia,,8,89.12,712.96,Cancelled
+ORD-10883,2025-02-28,Japan,,11,22.80,250.80,Completed
+ORD-10884,2025-03-05,United Kingdom,Home & Kitchen,6,21.02,126.12,Completed
+ORD-10885,2026-06-24,United States,Books & Media,4,84.06,336.24,
+ORD-10886,2025-03-28,France,Health & Wellness,11,76.72,843.92,Completed
+ORD-10887,2025-10-21,,Electronics,2,"1,005.77","2,011.54",Completed
+ORD-10888,2025-07-07,,Toys & Games,2,31.16,62.32,Completed
+ORD-10889,2025-08-22,United Kingdom,Health & Wellness,8,16.30,130.40,
+ORD-10890,2025-06-10,France,Electronics,3,963.19,"2,889.57",Completed
+ORD-10891,2026-06-15,Australia,Beauty & Personal Care,2,71.36,142.72,Processing
+ORD-10892,2025-06-10,Japan,Electronics,4,,,Cancelled
+ORD-10893,2026-09-06,United States,Apparel & Accessories,2,75.50,151.00,Completed
+ORD-10894,2026-08-09,United States,Electronics,4,157.78,631.12,Refunded
+ORD-10895,2025-01-24,United States,Sports & Outdoors,6,210.36,"1,262.16",Completed
+ORD-10896,2025-05-30,India,Beauty & Personal Care,5,8.19,40.95,Completed
+ORD-10897,,United States,Health & Wellness,1,74.18,74.18,Completed
+ORD-10898,2026-03-24,United States,Electronics,3,753.83,"2,261.49",Completed
+ORD-10899,2025-09-09,United States,Apparel & Accessories,6,219.39,"1,316.34",Pending
+ORD-10900,2025-12-28,China,Electronics,2,516.06,"1,032.12",Completed
+ORD-10901,2026-08-29,United States,Electronics,3,"1,128.84","3,386.52",
+ORD-10902,2025-05-01,United Kingdom,Sports & Outdoors,2,192.50,385.00,Pending
+ORD-10903,2025-02-16,United Kingdom,Toys & Games,4,32.24,128.96,
+ORD-10904,2026-05-22,United States,Toys & Games,5,74.76,373.80,Processing
+ORD-10905,2025-10-30,United States,Books & Media,5,34.32,171.60,Completed
+ORD-10906,2025-04-17,France,Electronics,1,609.39,609.39,Completed
+ORD-10907,2026-06-13,China,Health & Wellness,12,49.23,590.76,Completed
+ORD-10908,2026-04-11,Brazil,Health & Wellness,3,22.63,67.89,Completed
+ORD-10909,2025-08-15,Japan,Books & Media,3,8.19,24.57,Processing
+ORD-10910,2026-08-25,United Kingdom,Home & Kitchen,6,142.53,855.18,Completed
+ORD-10911,2025-09-22,United Kingdom,Health & Wellness,4,61.29,245.16,Pending
+ORD-10912,2025-11-29,Canada,Toys & Games,,48.84,,Pending
+ORD-10913,2026-01-05,United States,Home & Kitchen,1,176.40,176.40,Pending
+ORD-10907,2026-06-13,China,Health & Wellness,12,49.23,590.76,Completed
+ORD-10914,2025-06-09,United States,Sports & Outdoors,7,17.98,125.86,Completed
+ORD-10915,2026-03-29,United States,Books & Media,,39.55,,Cancelled
+ORD-10916,2026-08-23,United Kingdom,Health & Wellness,2,75.87,151.74,Completed
+ORD-10917,2026-04-22,Australia,Electronics,1,806.69,806.69,Completed
+ORD-10918,2026-04-19,United States,Health & Wellness,6,65.08,390.48,Completed
+ORD-10919,2025-05-04,Canada,Toys & Games,3,39.44,118.32,Completed
+ORD-10920,2025-05-25,Japan,Home & Kitchen,1,49.37,49.37,Completed
+ORD-10921,2026-02-24,China,Home & Kitchen,7,136.84,957.88,Completed
+ORD-10922,2025-11-15,India,Health & Wellness,4,42.22,168.88,Processing
+ORD-10923,2025-04-14,France,Toys & Games,1,59.05,59.05,Refunded
+ORD-10924,2026-01-18,Canada,Books & Media,3,49.20,147.60,Processing
+ORD-10917,2026-04-22,Australia,Electronics,1,806.69,806.69,Completed
+ORD-10925,2026-09-02,France,Health & Wellness,6,56.95,341.70,Pending
+ORD-10926,2025-07-13,United States,Apparel & Accessories,3,83.31,249.93,Completed
+ORD-10927,2025-01-01,Brazil,Electronics,2,"1,036.71","2,073.42",Refunded
+ORD-10928,2025-07-04,India,Apparel & Accessories,7,29.05,203.35,Refunded
+ORD-10929,2026-02-01,China,Electronics,3,718.85,"2,156.55",Cancelled
+ORD-10930,2025-05-03,Japan,Toys & Games,7,19.49,136.43,Completed
+ORD-10931,2026-03-27,United States,Health & Wellness,9,75.67,681.03,Completed
+ORD-10932,2026-03-07,Germany,Electronics,4,995.23,"3,980.92",Completed
+ORD-10933,2026-08-19,China,Home & Kitchen,4,40.10,160.40,Processing
+ORD-10934,2025-06-07,France,Toys & Games,6,34.29,205.74,Pending
+ORD-10935,2025-12-18,United Kingdom,Home & Kitchen,3,80.24,240.72,Processing
+ORD-10936,2026-05-10,Brazil,Apparel & Accessories,3,22.47,67.41,Completed
+ORD-10937,2025-10-14,United Kingdom,Beauty & Personal Care,5,69.96,349.80,Completed
+ORD-10938,2026-01-04,United States,,5,123.42,617.10,Completed
+ORD-10939,2025-08-21,Germany,Health & Wellness,9,80.26,722.34,Refunded
+ORD-10940,2025-07-20,China,Health & Wellness,1,75.89,75.89,Completed
+ORD-10941,2025-01-14,Japan,,8,47.20,377.60,Completed
+ORD-10942,2025-03-26,United States,Home & Kitchen,1,128.55,128.55,Refunded
+ORD-10943,2026-09-21,China,Toys & Games,8,,,Completed
+ORD-10944,2026-06-16,United States,Health & Wellness,9,79.61,716.49,Completed
+ORD-10945,2025-11-09,China,Beauty & Personal Care,2,19.47,38.94,Completed
+ORD-10946,2025-03-22,,Books & Media,11,29.52,324.72,Completed
+ORD-10947,2025-01-11,Mexico,Sports & Outdoors,7,176.37,"1,234.59",Cancelled
+ORD-10948,2026-01-16,France,Toys & Games,3,60.69,182.07,Cancelled
+ORD-10946,2025-03-22,Germany,Books & Media,11,29.52,324.72,Completed
+ORD-10949,2025-01-18,China,Sports & Outdoors,5,170.43,852.15,Pending
+ORD-10950,2025-04-30,United Kingdom,Beauty & Personal Care,10,44.08,440.80,Processing
+ORD-10951,2026-08-06,South Korea,,3,"1,030.46","3,091.38",Processing
+ORD-10952,2026-03-02,United Kingdom,Health & Wellness,2,84.57,169.14,Completed
+ORD-10953,2025-10-04,Japan,Home & Kitchen,4,22.45,89.80,Completed
+ORD-10954,2026-02-22,United States,Home & Kitchen,8,226.89,"1,815.12",Completed
+ORD-10955,2025-01-27,France,Home & Kitchen,3,26.62,79.86,Completed
+ORD-10956,2025-02-27,United Kingdom,Electronics,3,"1,150.78","3,452.34",Completed
+ORD-10957,2026-04-23,India,Beauty & Personal Care,1,10.41,10.41,Completed
+ORD-10958,2025-11-13,United States,Electronics,3,,,Cancelled
+ORD-10959,2026-04-20,Brazil,Beauty & Personal Care,3,27.35,82.05,Pending
+ORD-10960,2025-10-09,Australia,Health & Wellness,3,57.95,173.85,Completed
+ORD-10961,2026-03-01,United States,Health & Wellness,1,18.90,18.90,Processing
+ORD-10962,2025-08-30,United Kingdom,Home & Kitchen,7,162.82,"1,139.74",Pending
+ORD-10963,2025-05-18,Australia,Toys & Games,11,61.90,680.90,Processing
+ORD-10964,2025-08-13,United States,Home & Kitchen,1,107.55,107.55,Completed
+ORD-10965,2026-05-11,United States,Apparel & Accessories,2,160.28,320.56,
+ORD-10966,2026-03-05,United States,Sports & Outdoors,3,87.34,262.02,Refunded
+ORD-10967,2026-07-25,,Beauty & Personal Care,6,38.48,230.88,Refunded
+ORD-10968,2026-05-10,United Kingdom,Apparel & Accessories,2,111.53,223.06,Completed
+ORD-10969,2025-09-13,Germany,Toys & Games,11,54.84,603.24,Completed
+ORD-10970,2025-12-01,United States,Apparel & Accessories,2,102.78,205.56,Cancelled
+ORD-10971,2025-03-22,United States,Electronics,1,"1,124.65","1,124.65",Completed
+ORD-10972,2025-06-04,United States,Books & Media,7,58.14,406.98,Completed
+ORD-10973,2025-08-15,Germany,Books & Media,10,52.99,529.90,Completed
+ORD-10974,2026-07-20,United States,Toys & Games,,61.95,,Refunded
+ORD-10975,2025-04-18,Canada,Sports & Outdoors,8,38.62,308.96,Processing
+ORD-10976,2025-12-27,Japan,Toys & Games,12,29.54,354.48,Completed
+ORD-10977,,Brazil,Beauty & Personal Care,6,66.65,399.90,Completed
+ORD-10978,2025-07-06,France,Sports & Outdoors,8,172.03,"1,376.24",Completed
+ORD-10979,2025-09-04,United States,Electronics,3,720.56,"2,161.68",Pending
+ORD-10980,2025-05-02,France,Apparel & Accessories,1,131.38,131.38,Pending
+ORD-10981,2025-05-17,United Kingdom,Health & Wellness,,43.25,,Completed
+ORD-10982,2026-04-18,Germany,Beauty & Personal Care,10,37.59,375.90,Completed
+ORD-10983,2026-01-09,India,Beauty & Personal Care,3,,,Completed
+ORD-10984,2026-08-29,United States,Home & Kitchen,8,138.03,"1,104.24",Pending
+ORD-10985,2025-01-28,,Electronics,4,"1,174.69","4,698.76",Processing
+ORD-10986,2025-03-14,Germany,Books & Media,10,28.25,282.50,Processing
+ORD-10987,,Germany,Beauty & Personal Care,7,24.69,172.83,Processing
+ORD-10988,2025-03-07,United States,Electronics,2,,,
+ORD-10989,2025-11-21,India,Beauty & Personal Care,7,24.78,173.46,Completed
+ORD-10990,2026-04-04,China,Sports & Outdoors,2,102.03,204.06,Completed
+ORD-10991,2025-06-19,Germany,Toys & Games,,13.39,,Completed
+ORD-10992,2025-06-14,United Kingdom,Apparel & Accessories,7,223.23,"1,562.61",Processing
+ORD-10993,2026-09-17,United States,Sports & Outdoors,1,59.25,59.25,Processing
+ORD-10994,2026-02-05,Germany,Sports & Outdoors,6,242.93,"1,457.58",Cancelled
+ORD-10995,,United States,Apparel & Accessories,8,51.10,408.80,Cancelled
+ORD-10996,2025-03-19,United States,Apparel & Accessories,6,231.73,"1,390.38",Completed
+ORD-10997,2026-06-12,United States,Electronics,2,470.92,941.84,Refunded
+ORD-10998,2026-07-30,United States,Sports & Outdoors,7,239.21,"1,674.47",
+ORD-10999,2026-02-05,,Beauty & Personal Care,9,49.93,449.37,Completed
+ORD-11000,2026-03-22,United Kingdom,Books & Media,5,24.72,123.60,Pending
+ORD-11001,2025-04-17,France,Home & Kitchen,7,227.21,"1,590.47",Pending
+ORD-11002,2025-06-03,United States,Books & Media,,,,Completed
+ORD-11003,2026-06-18,Canada,Sports & Outdoors,4,45.48,181.92,Processing
+ORD-11004,2025-02-11,Australia,Electronics,4,480.74,"1,922.96",Completed
+ORD-11005,2025-02-04,France,Electronics,1,860.83,860.83,Refunded
+ORD-11006,2026-08-22,Germany,Apparel & Accessories,,169.56,,Completed
+ORD-10998,2026-07-30,United States,Sports & Outdoors,7,239.21,"1,674.47",Cancelled
+ORD-11007,2025-06-07,United States,Home & Kitchen,3,72.52,217.56,Completed
+ORD-11005,2025-02-04,France,Electronics,1,860.83,860.83,Refunded
+ORD-11008,2025-07-02,Germany,Apparel & Accessories,5,37.64,188.20,Refunded
+ORD-11009,2025-10-18,India,Home & Kitchen,4,187.65,750.60,Cancelled
+ORD-11010,2026-04-23,United States,Beauty & Personal Care,1,12.31,12.31,Completed
+ORD-11011,2026-01-28,United States,Health & Wellness,6,33.06,198.36,Completed
+ORD-11012,2025-06-16,,Sports & Outdoors,3,217.67,653.01,Completed
+ORD-11013,2026-07-06,Germany,Beauty & Personal Care,3,27.84,83.52,Completed
+ORD-11014,2026-08-08,Japan,Apparel & Accessories,8,202.04,"1,616.32",Cancelled
+ORD-11015,2026-06-16,United Kingdom,Home & Kitchen,6,,,Processing
+ORD-11016,2025-05-03,United Kingdom,Sports & Outdoors,8,26.21,209.68,Cancelled
+ORD-11017,2026-02-09,United Kingdom,Home & Kitchen,3,45.26,135.78,Refunded
+ORD-11018,2026-01-18,United States,Sports & Outdoors,4,110.86,443.44,Refunded
+ORD-11019,2026-09-02,United States,Home & Kitchen,3,208.69,626.07,Completed
+ORD-11020,2025-12-06,China,Beauty & Personal Care,5,29.42,147.10,Completed
+ORD-11021,2025-02-03,Mexico,Health & Wellness,9,37.52,337.68,Completed
+ORD-11022,2025-07-13,United Kingdom,Toys & Games,2,44.96,89.92,Completed
+ORD-11023,2025-03-23,Japan,Toys & Games,8,13.94,111.52,Completed
+ORD-11024,,Canada,Beauty & Personal Care,10,33.50,335.00,Processing
+ORD-11025,2025-01-12,United Kingdom,Toys & Games,9,41.75,375.75,Completed
+ORD-11022,2025-07-13,United Kingdom,Toys & Games,2,44.96,89.92,Completed
+ORD-11026,2025-01-22,Germany,Electronics,2,786.91,"1,573.82",Processing
+ORD-11027,2026-02-11,United States,Apparel & Accessories,2,153.15,306.30,Completed
+ORD-11028,2026-03-23,,Home & Kitchen,7,76.49,535.43,Completed
+ORD-11029,2025-07-20,Canada,Books & Media,3,24.32,72.96,Completed
+ORD-11030,2026-06-17,Japan,Health & Wellness,6,18.64,111.84,Completed
+ORD-11031,2026-09-19,India,Books & Media,5,14.68,73.40,Pending
+ORD-11032,2026-05-25,United States,Home & Kitchen,3,139.20,417.60,Cancelled
+ORD-11033,2025-09-07,China,Electronics,1,487.44,487.44,Cancelled
+ORD-11034,2025-09-08,China,Toys & Games,11,23.60,259.60,Completed
+ORD-11035,2025-09-02,United States,Beauty & Personal Care,8,72.06,576.48,Cancelled
+ORD-11036,2025-12-10,United States,Sports & Outdoors,8,215.40,"1,723.20",Completed
+ORD-11037,2026-05-30,,Home & Kitchen,4,200.72,802.88,Completed
+ORD-11038,2026-04-15,United Kingdom,Electronics,3,513.93,"1,541.79",Refunded
+ORD-11039,2025-12-11,Canada,Toys & Games,7,13.95,97.65,Refunded
+ORD-11040,2026-03-20,United States,Electronics,2,94.00,188.00,Completed
+ORD-11041,2025-05-22,China,Beauty & Personal Care,9,40.08,360.72,Cancelled
+ORD-11042,2025-08-25,China,Books & Media,7,52.49,367.43,Refunded
+ORD-11043,2025-08-31,United Kingdom,Books & Media,8,20.79,166.32,Pending
+ORD-11044,2026-01-07,United States,Home & Kitchen,1,193.57,193.57,Pending
+ORD-11045,,Germany,Apparel & Accessories,2,63.89,127.78,Completed
+ORD-11046,2025-12-08,,,4,64.67,258.68,Completed
+ORD-11047,,India,Home & Kitchen,7,106.90,748.30,Completed
+ORD-11048,2026-04-29,Brazil,Toys & Games,6,84.62,507.72,Completed
+ORD-11049,2026-05-18,China,Beauty & Personal Care,8,51.74,413.92,Completed
+ORD-11050,2025-08-27,United States,Home & Kitchen,3,62.64,187.92,Completed
+ORD-11051,2026-04-09,United States,Home & Kitchen,8,193.16,"1,545.28",Processing
+ORD-11052,2026-02-06,India,Home & Kitchen,1,120.05,120.05,Cancelled
+ORD-11053,2025-11-25,France,Beauty & Personal Care,2,59.37,118.74,Completed
+ORD-11054,2025-06-20,United Kingdom,Electronics,4,786.32,"3,145.28",Completed
+ORD-11055,2025-03-22,Brazil,Apparel & Accessories,1,168.44,168.44,Processing
+ORD-11056,2026-06-16,India,Electronics,1,833.72,833.72,Completed
+ORD-11051,2026-04-09,United States,Home & Kitchen,8,193.16,"1,545.28",Processing
+ORD-11057,2025-10-31,Australia,Health & Wellness,11,84.01,924.11,Completed
+ORD-11058,2025-07-24,United Kingdom,Home & Kitchen,4,54.61,218.44,Processing
+ORD-11059,2026-05-17,,Home & Kitchen,1,225.87,225.87,Completed
+ORD-11060,2026-09-08,China,Books & Media,4,26.13,104.52,Refunded
+ORD-11061,2026-04-23,China,Sports & Outdoors,7,59.08,413.56,Completed
+ORD-11062,2026-01-14,China,Health & Wellness,7,27.95,195.65,Processing
+ORD-11059,2026-05-17,India,Home & Kitchen,1,225.87,225.87,Completed
+ORD-11056,2026-06-16,India,Electronics,1,833.72,833.72,Completed
+ORD-11063,2025-01-18,China,Health & Wellness,8,65.09,520.72,Completed
+ORD-11064,2025-01-19,United States,Beauty & Personal Care,1,65.35,65.35,
+ORD-11065,2025-09-12,United States,Health & Wellness,11,56.11,617.21,
+ORD-11066,2025-03-08,United States,,8,134.77,"1,078.16",Refunded
+ORD-11067,2025-01-14,,Beauty & Personal Care,11,29.95,329.45,Cancelled
+ORD-11068,2025-08-02,China,Electronics,1,639.09,639.09,Completed
+ORD-11069,2026-01-03,China,Electronics,1,889.20,889.20,Processing
+ORD-11070,2025-05-19,China,Toys & Games,9,23.20,208.80,Pending
+ORD-11071,2025-07-09,Japan,Beauty & Personal Care,6,48.02,288.12,Processing
+ORD-11072,2025-09-02,India,Apparel & Accessories,5,65.89,329.45,Completed
+ORD-11073,2026-08-19,United States,Health & Wellness,9,40.68,366.12,Completed
+ORD-11074,2025-10-06,United Kingdom,Beauty & Personal Care,4,69.53,278.12,Processing
+ORD-11075,2025-09-22,France,Toys & Games,,45.41,,Completed
+ORD-11076,2026-06-23,Australia,Health & Wellness,12,22.05,264.60,Refunded
+ORD-11077,2025-08-10,China,Toys & Games,4,80.11,320.44,Processing
+ORD-11078,2026-01-09,China,Electronics,1,183.13,183.13,Completed
+ORD-11079,2025-10-01,United Kingdom,Beauty & Personal Care,12,71.88,862.56,Processing
+ORD-11080,2025-09-25,Canada,Books & Media,3,49.74,149.22,Completed
+ORD-11081,2026-06-03,United Kingdom,Electronics,4,,,Completed
+ORD-11082,2025-12-04,China,Apparel & Accessories,3,76.75,230.25,Pending
+ORD-11083,2025-11-20,South Korea,Home & Kitchen,7,116.43,815.01,Completed
+ORD-11084,2025-08-10,United States,Sports & Outdoors,4,157.56,630.24,Processing
+ORD-11085,2025-06-06,Japan,Electronics,4,297.66,"1,190.64",Completed
+ORD-11086,2025-12-21,India,Apparel & Accessories,8,42.45,339.60,Pending
+ORD-11087,2026-08-01,,Apparel & Accessories,3,46.92,140.76,Pending
+ORD-11088,2026-08-22,United States,Sports & Outdoors,4,233.62,934.48,Processing
+ORD-11089,,United States,Books & Media,4,40.66,162.64,
+ORD-11090,2025-02-17,Brazil,Electronics,4,"1,080.35","4,321.40",Completed
+ORD-11091,2025-03-06,,Health & Wellness,9,23.84,214.56,Completed
+ORD-11092,2025-01-11,China,Home & Kitchen,,98.17,,Completed
+ORD-11093,2025-03-03,United Kingdom,Home & Kitchen,2,36.36,72.72,Pending
+ORD-11094,2025-10-19,,Beauty & Personal Care,12,52.31,627.72,Processing
+ORD-11087,2026-08-01,Canada,Apparel & Accessories,3,,,Pending
+ORD-11095,2025-08-19,United States,Health & Wellness,3,72.19,216.57,Refunded
+ORD-11096,2026-01-07,,Health & Wellness,6,72.10,432.60,Refunded
+ORD-11097,2025-08-17,China,Electronics,3,"1,061.89","3,185.67",Processing
+ORD-11098,2026-04-10,Japan,Home & Kitchen,1,151.35,151.35,Pending
+ORD-11099,2025-04-02,United States,Electronics,1,485.04,485.04,Completed
+ORD-11100,2025-12-21,,Health & Wellness,11,81.07,891.77,Completed
+ORD-11101,2025-11-14,Japan,Home & Kitchen,5,207.80,"1,039.00",Refunded
+ORD-11102,2025-12-26,United States,Beauty & Personal Care,2,66.14,132.28,Completed
+ORD-11103,2026-02-23,China,Sports & Outdoors,4,45.58,182.32,Processing
+ORD-11104,2025-09-10,United States,Home & Kitchen,1,98.29,98.29,Cancelled
+ORD-11105,2026-07-06,India,Books & Media,8,56.57,452.56,Pending
+ORD-11106,2026-06-05,United States,Beauty & Personal Care,7,51.46,360.22,Completed
+ORD-11107,2026-06-19,Japan,Books & Media,7,68.07,476.49,Completed
+ORD-11108,2025-08-27,United States,Books & Media,1,77.90,77.90,Pending
+ORD-11109,2026-01-15,United States,Home & Kitchen,6,222.49,"1,334.94",Refunded
+ORD-11110,2025-04-05,United States,Beauty & Personal Care,5,56.57,282.85,Completed
+ORD-11111,2026-02-07,China,Sports & Outdoors,8,241.35,"1,930.80",Completed
+ORD-11112,2026-04-01,United States,Beauty & Personal Care,11,75.44,829.84,Completed
+ORD-11113,2026-08-26,United States,Electronics,2,"1,005.40","2,010.80",Completed
+ORD-11114,2026-03-04,China,Electronics,3,835.34,"2,506.02",Pending
+ORD-11115,2025-08-09,United States,Apparel & Accessories,2,190.27,380.54,Pending
+ORD-11116,2026-07-27,South Korea,Books & Media,8,77.23,617.84,Pending
+ORD-11117,2026-02-27,China,Books & Media,10,42.95,429.50,Completed
+ORD-11118,2025-08-01,,Sports & Outdoors,1,,,Completed
+ORD-11119,2026-05-31,United States,Sports & Outdoors,6,173.22,"1,039.32",Completed
+ORD-11120,2025-09-20,Germany,Electronics,2,"1,085.68","2,171.36",Completed
+ORD-11121,2025-11-18,United States,Books & Media,,,,Completed
+ORD-11122,2025-04-12,Japan,Books & Media,6,66.55,399.30,Completed
+ORD-11123,2025-05-11,France,Apparel & Accessories,6,112.11,672.66,Completed
+ORD-11124,2026-07-10,United Kingdom,Beauty & Personal Care,4,82.71,330.84,Processing
+ORD-11125,2026-09-11,Australia,Home & Kitchen,4,92.17,368.68,Completed
+ORD-11126,2026-07-21,United States,Apparel & Accessories,6,157.02,942.12,Completed
+ORD-11127,2025-08-25,United States,Books & Media,1,9.36,9.36,Refunded
+ORD-11128,2025-08-07,France,Electronics,4,716.57,"2,866.28",Processing
+ORD-11129,2025-04-25,China,Health & Wellness,11,55.00,605.00,Completed
+ORD-11130,2025-08-21,United States,Electronics,4,920.36,"3,681.44",Refunded
+ORD-11131,2025-03-06,,Health & Wellness,5,62.63,313.15,Completed
+ORD-11132,2026-03-25,Japan,Apparel & Accessories,2,56.06,112.12,Completed
+ORD-11133,2026-06-30,Australia,Apparel & Accessories,7,84.09,588.63,Pending
+ORD-11134,2026-03-11,United Kingdom,Health & Wellness,7,12.95,90.65,Completed
+ORD-11135,2025-08-29,United States,Apparel & Accessories,2,,,Pending
+ORD-11136,2026-01-24,China,Home & Kitchen,4,228.88,915.52,Processing
+ORD-11137,2025-05-27,United States,Beauty & Personal Care,2,25.97,51.94,Refunded
+ORD-11138,2026-04-04,China,Toys & Games,8,,,Completed
+ORD-11139,2025-10-25,China,Beauty & Personal Care,5,,,Completed
+ORD-11140,2026-08-15,China,Toys & Games,4,36.19,144.76,
+ORD-11141,2026-04-14,United States,Apparel & Accessories,1,143.31,143.31,
+ORD-11142,2025-08-21,India,Sports & Outdoors,7,33.15,232.05,Pending
+ORD-11143,2026-09-29,Brazil,Beauty & Personal Care,12,80.93,971.16,Processing
+ORD-11144,2025-11-16,,Sports & Outdoors,2,,,Refunded
+ORD-11145,2026-02-02,China,Apparel & Accessories,2,249.72,499.44,Completed
+ORD-11146,2025-04-04,United States,Sports & Outdoors,4,112.05,448.20,Completed
+ORD-11147,2025-04-12,Japan,Books & Media,1,22.60,22.60,Completed
+ORD-11148,2026-06-17,,Toys & Games,6,83.16,498.96,Processing
+ORD-11149,2025-03-17,France,Apparel & Accessories,2,29.72,59.44,Completed
+ORD-11150,2026-05-12,United States,Health & Wellness,2,84.08,168.16,Completed
+ORD-11151,2025-07-21,Japan,,1,39.56,39.56,Processing
+ORD-11152,2025-06-09,United States,Home & Kitchen,4,23.83,95.32,Completed
+ORD-11153,2025-06-07,China,Toys & Games,2,72.36,144.72,Completed
+ORD-11154,2026-08-01,United States,Sports & Outdoors,4,88.02,352.08,Completed
+ORD-11155,2026-05-19,United States,Beauty & Personal Care,11,,,Refunded
+ORD-11156,2025-02-04,United States,Electronics,3,210.65,631.95,Refunded
+ORD-11157,2026-01-13,Canada,Toys & Games,7,58.95,412.65,Completed
+ORD-11158,2025-12-14,China,Beauty & Personal Care,4,,,Refunded
+ORD-11159,2025-06-15,United States,Beauty & Personal Care,5,25.92,129.60,Cancelled
+ORD-11160,2026-08-05,United Kingdom,Toys & Games,3,66.89,200.67,Cancelled
+ORD-11161,2026-04-22,South Korea,Sports & Outdoors,7,119.54,836.78,Completed
+ORD-11161,2026-04-22,South Korea,Sports & Outdoors,7,119.54,836.78,Completed
+ORD-11162,2026-02-03,India,Electronics,1,957.41,957.41,Completed
+ORD-11163,2025-04-03,Canada,Beauty & Personal Care,4,,,Cancelled
+ORD-11164,2026-04-08,China,Home & Kitchen,1,201.10,201.10,Pending
+ORD-11165,2026-02-01,United States,Electronics,2,178.38,356.76,Completed
+ORD-11166,2025-09-27,United States,Beauty & Personal Care,2,18.01,36.02,Refunded
+ORD-11167,2026-01-10,United States,Home & Kitchen,4,32.42,129.68,Completed
+ORD-11168,2025-12-15,Canada,Beauty & Personal Care,6,82.20,493.20,Processing
+ORD-11169,2026-09-25,China,Books & Media,3,,,Completed
+ORD-11170,2026-06-25,United States,Beauty & Personal Care,,42.22,,Pending
+ORD-11171,2026-06-03,United Kingdom,Home & Kitchen,8,173.20,"1,385.60",Completed
+ORD-11172,2025-06-19,United Kingdom,Health & Wellness,10,45.91,459.10,Completed
+ORD-11173,2026-07-23,Germany,Sports & Outdoors,8,144.52,"1,156.16",Refunded
+ORD-11174,2025-12-24,South Korea,Sports & Outdoors,5,235.79,"1,178.95",Cancelled
+ORD-11175,,United States,Health & Wellness,5,14.78,73.90,Cancelled
+ORD-11176,2025-01-29,United States,Books & Media,7,72.69,508.83,Pending
+ORD-11177,2025-04-30,United States,Books & Media,1,58.41,58.41,Cancelled
+ORD-11178,2025-06-18,,Sports & Outdoors,3,179.66,538.98,
+ORD-11179,2026-02-21,United States,Sports & Outdoors,5,197.32,986.60,Refunded
+ORD-11180,2026-06-17,United Kingdom,Apparel & Accessories,8,196.32,"1,570.56",Cancelled
+ORD-11181,2025-12-18,Germany,Apparel & Accessories,3,101.35,304.05,Cancelled
+ORD-11182,2025-04-11,United States,Electronics,,"1,005.89",,Completed
+ORD-11183,2025-04-26,Australia,Toys & Games,5,33.03,165.15,Completed
+ORD-11175,2026-02-16,United States,Health & Wellness,5,14.78,73.90,Cancelled
+ORD-11184,2026-07-24,United States,Electronics,2,765.60,"1,531.20",Processing
+ORD-11185,2026-04-22,China,Electronics,4,549.74,"2,198.96",Completed
+ORD-11186,2025-10-08,France,Books & Media,5,54.92,274.60,Completed
+ORD-11187,2025-05-30,United States,Toys & Games,10,74.52,745.20,Processing
+ORD-11188,2025-08-27,United States,Health & Wellness,10,53.86,538.60,Completed
+ORD-11189,2026-09-09,South Korea,Electronics,2,"1,094.97","2,189.94",Refunded
+ORD-11190,2026-03-07,Canada,Beauty & Personal Care,8,42.23,337.84,Processing
+ORD-11191,2025-09-04,United States,Beauty & Personal Care,1,13.36,13.36,Pending
+ORD-11192,2025-03-26,Australia,Electronics,1,57.58,57.58,Completed
+ORD-11193,2025-09-24,South Korea,Beauty & Personal Care,9,32.63,293.67,Pending
+ORD-11194,,United States,Health & Wellness,1,69.57,69.57,Processing
+ORD-11195,2026-03-07,United States,Books & Media,7,36.63,256.41,Cancelled
+ORD-11196,2026-07-15,United Kingdom,Sports & Outdoors,3,32.55,97.65,Completed
+ORD-11197,2026-01-27,France,Home & Kitchen,7,160.72,"1,125.04",Processing
+ORD-11198,2026-04-25,China,Books & Media,3,82.37,247.11,Pending
+ORD-11199,2025-09-30,Japan,Beauty & Personal Care,5,17.66,88.30,Completed
+ORD-11200,2025-10-24,South Korea,Electronics,,828.46,,Completed
+ORD-11201,2026-02-14,Japan,Apparel & Accessories,8,242.65,"1,941.20",Completed
+ORD-11202,2025-04-08,China,Apparel & Accessories,5,64.24,321.20,Refunded
+ORD-11203,2025-07-08,Brazil,Health & Wellness,7,68.40,478.80,Completed
+ORD-11204,2025-01-26,China,Beauty & Personal Care,1,76.49,76.49,Processing
+ORD-11205,2025-02-22,Canada,Sports & Outdoors,1,128.90,128.90,Completed
+ORD-11206,2025-08-02,Canada,Sports & Outdoors,1,56.67,56.67,Completed
+ORD-11207,2025-10-06,South Korea,Electronics,,"1,091.54",,Completed
+ORD-11208,2025-06-03,United Kingdom,Toys & Games,9,48.67,438.03,Cancelled
+ORD-11209,2025-10-13,,Health & Wellness,8,71.08,568.64,Completed
+ORD-11210,2025-02-26,Brazil,Books & Media,12,48.61,583.32,Completed
+ORD-11211,2026-04-30,United Kingdom,Electronics,2,"1,053.96","2,107.92",
+ORD-11212,2026-09-11,United States,Toys & Games,11,63.73,701.03,Cancelled
+ORD-11213,2026-02-22,South Korea,Home & Kitchen,8,195.18,"1,561.44",Cancelled
+ORD-11214,2026-07-19,Japan,Apparel & Accessories,6,,,Completed
+ORD-11215,2025-02-28,United States,Sports & Outdoors,2,38.97,77.94,Completed
+ORD-11216,2026-04-29,France,Home & Kitchen,1,228.86,228.86,Refunded
+ORD-11217,2026-05-12,,Home & Kitchen,3,87.67,263.01,Cancelled
+ORD-11218,2025-03-30,United Kingdom,Health & Wellness,2,54.94,109.88,Refunded
+ORD-11219,2026-05-12,India,Apparel & Accessories,6,128.00,768.00,Processing
+ORD-11220,2025-01-04,,Beauty & Personal Care,9,38.56,347.04,Pending
+ORD-11221,2026-03-25,Brazil,Home & Kitchen,6,169.33,"1,015.98",Cancelled
+ORD-11222,2026-06-08,China,Home & Kitchen,6,113.07,678.42,Processing
+ORD-11223,2026-04-08,,Apparel & Accessories,7,221.82,"1,552.74",Cancelled
+ORD-11224,2026-04-27,China,Health & Wellness,1,25.49,25.49,Completed
+ORD-11225,2026-04-26,China,Home & Kitchen,2,184.38,368.76,Processing
+ORD-11226,2025-02-05,United States,Sports & Outdoors,1,194.64,194.64,Cancelled
+ORD-11227,2026-03-26,,Toys & Games,8,50.51,404.08,Processing
+ORD-11228,2026-09-01,United Kingdom,Health & Wellness,2,17.55,35.10,Completed
+ORD-11229,2026-07-22,Japan,Home & Kitchen,6,239.97,"1,439.82",Completed
+ORD-11230,2025-09-09,China,Toys & Games,8,67.17,537.36,Refunded
+ORD-11231,2026-03-26,Japan,Sports & Outdoors,4,27.23,108.92,Completed
+ORD-11232,2026-05-02,India,Health & Wellness,3,24.62,73.86,Refunded
+ORD-11233,2026-03-08,United States,Electronics,3,231.79,695.37,Refunded
+ORD-11234,2026-01-06,China,Health & Wellness,6,79.99,479.94,Pending
+ORD-11235,2026-05-11,Japan,Electronics,2,63.21,126.42,Completed
+ORD-11236,2026-05-16,Germany,Electronics,2,,,Completed
+ORD-11237,2025-01-27,China,Electronics,3,593.56,"1,780.68",Completed
+ORD-11238,2025-09-09,United States,Electronics,3,107.22,321.66,Pending
+ORD-11239,2025-12-30,Brazil,Electronics,4,769.14,"3,076.56",Completed
+ORD-11240,2025-02-12,United States,Toys & Games,9,31.44,282.96,Refunded
+ORD-11241,2026-07-11,China,Apparel & Accessories,4,204.29,817.16,Completed
+ORD-11242,2026-03-01,United Kingdom,Toys & Games,7,70.75,495.25,Completed
+ORD-11243,2026-09-05,United States,Home & Kitchen,,48.73,,Completed
+ORD-11244,2026-05-14,China,Sports & Outdoors,3,218.04,654.12,Pending
+ORD-11245,2025-09-09,Canada,Home & Kitchen,1,101.66,101.66,Completed
+ORD-11246,2025-02-09,United States,Home & Kitchen,7,34.37,240.59,Completed
+ORD-11247,2026-03-03,Germany,Toys & Games,11,64.62,710.82,Completed
+ORD-11248,2025-09-10,United States,Health & Wellness,12,51.16,613.92,Cancelled
+ORD-11249,2026-02-09,United States,Apparel & Accessories,8,154.32,"1,234.56",Pending
+ORD-11250,2026-09-22,United States,Home & Kitchen,4,134.95,539.80,Completed
+ORD-11251,2025-08-13,China,Toys & Games,3,44.73,134.19,Refunded
+ORD-11252,2025-03-31,United States,Toys & Games,3,31.26,93.78,Completed
+ORD-11253,2026-01-17,India,Beauty & Personal Care,8,22.09,176.72,Refunded
+ORD-11254,2025-07-13,Mexico,Electronics,1,577.12,577.12,Completed
+ORD-11255,2026-07-29,United Kingdom,Toys & Games,10,21.29,212.90,Processing
+ORD-11256,2026-04-08,France,Sports & Outdoors,6,233.11,"1,398.66",Completed
+ORD-11257,,Japan,Sports & Outdoors,3,187.78,563.34,Pending
+ORD-11258,2025-11-22,South Korea,Electronics,4,271.27,"1,085.08",Completed
+ORD-11259,2026-04-23,India,Sports & Outdoors,5,164.21,821.05,Completed
+ORD-11260,2026-07-30,,Home & Kitchen,1,132.59,132.59,Pending
+ORD-11261,2026-02-05,India,Apparel & Accessories,4,182.87,731.48,Completed
+ORD-11262,2026-04-02,China,Beauty & Personal Care,12,60.66,727.92,Processing
+ORD-11263,2025-10-17,United States,Toys & Games,3,63.52,190.56,Completed
+ORD-11264,2025-03-07,United Kingdom,,2,97.87,195.74,
+ORD-11265,2026-06-01,Australia,Toys & Games,3,57.11,171.33,Cancelled
+ORD-11266,2025-02-27,China,Beauty & Personal Care,4,63.78,255.12,Processing
+ORD-11267,2025-07-13,United Kingdom,Sports & Outdoors,3,128.99,386.97,Completed
+ORD-11268,2025-05-09,United Kingdom,Books & Media,1,63.19,63.19,Completed
+ORD-11269,2025-07-08,Germany,Electronics,4,"1,195.81","4,783.24",Completed
+ORD-11270,2026-09-26,United States,Toys & Games,2,11.53,23.06,Processing
+ORD-11271,,United Kingdom,Books & Media,,17.26,,Cancelled
+ORD-11272,2025-07-11,South Korea,Electronics,2,432.19,864.38,Refunded
+ORD-11273,2025-09-06,Germany,Books & Media,,52.21,,Processing
+ORD-11274,2026-01-27,China,Electronics,2,378.20,756.40,Completed
+ORD-11275,2025-01-30,United States,,8,9.94,79.52,Completed
+ORD-11270,2026-09-26,United States,Toys & Games,2,11.53,23.06,Processing
+ORD-11276,2026-09-14,India,Health & Wellness,5,38.40,192.00,Completed
+ORD-11277,2026-07-23,United States,Sports & Outdoors,1,109.30,109.30,Completed
+ORD-11278,2025-09-09,United States,Toys & Games,2,68.95,137.90,
+ORD-11279,2025-06-06,United States,Beauty & Personal Care,8,73.46,587.68,Completed
+ORD-11280,2025-09-28,United States,Home & Kitchen,7,228.76,"1,601.32",Pending
+ORD-11281,2025-11-23,China,Books & Media,9,32.83,295.47,Processing
+ORD-11282,2026-06-22,United States,Beauty & Personal Care,2,19.70,39.40,Completed
+ORD-11283,2025-01-23,Brazil,Toys & Games,6,29.90,179.40,Completed
+ORD-11284,2026-09-13,Germany,Health & Wellness,12,14.64,175.68,Pending
+ORD-11285,2025-03-18,United States,Health & Wellness,3,42.43,127.29,Completed
+ORD-11286,2025-12-13,United States,Toys & Games,2,38.75,77.50,Completed
+ORD-11287,2026-06-04,United Kingdom,Sports & Outdoors,6,76.80,460.80,Completed
+ORD-11288,2025-07-14,China,Beauty & Personal Care,1,40.13,40.13,Processing
+ORD-11289,2025-09-23,Australia,Sports & Outdoors,1,107.50,107.50,Completed
+ORD-11290,2026-04-09,Japan,Sports & Outdoors,6,192.08,"1,152.48",Processing
+ORD-11291,2025-12-01,China,Beauty & Personal Care,12,65.28,783.36,Pending
+ORD-11292,2026-04-07,China,Sports & Outdoors,1,148.49,148.49,Completed
+ORD-11293,2026-01-25,United States,Books & Media,4,36.27,145.08,Completed
+ORD-11294,2025-06-19,United Kingdom,Toys & Games,11,66.11,727.21,Completed
+ORD-11295,2025-04-24,Brazil,Health & Wellness,10,81.25,812.50,Completed
+ORD-11296,2026-09-25,Japan,Electronics,2,112.06,224.12,Pending
+ORD-11297,2026-09-08,China,Electronics,1,83.73,83.73,Completed
+ORD-11298,2026-06-03,United Kingdom,Health & Wellness,2,51.61,103.22,Completed
+ORD-11299,2025-02-04,United Kingdom,Beauty & Personal Care,10,36.94,369.40,Processing
+ORD-11300,2025-12-06,United States,Toys & Games,,42.27,,Completed
+ORD-11301,2025-02-08,United States,Toys & Games,9,49.79,448.11,Completed
+ORD-11302,2026-03-31,United States,Electronics,2,484.46,968.92,Completed
+ORD-11303,2025-02-25,Germany,Home & Kitchen,8,126.77,"1,014.16",Completed
+ORD-11304,2026-09-30,South Korea,Apparel & Accessories,5,147.07,735.35,Completed
+ORD-11305,2025-08-19,France,Apparel & Accessories,2,52.41,104.82,Processing
+ORD-11306,2025-08-16,United Kingdom,Sports & Outdoors,5,54.19,270.95,Completed
+ORD-11307,2026-07-12,China,,6,118.59,711.54,Completed
+ORD-11308,2025-03-07,United States,Home & Kitchen,2,206.78,413.56,Completed
+ORD-11309,2026-09-22,United States,Home & Kitchen,,190.24,,Cancelled
+ORD-11310,2026-06-15,France,Toys & Games,11,67.58,743.38,Pending
+ORD-11311,2025-08-26,Canada,Apparel & Accessories,2,151.49,302.98,Completed
+ORD-11312,2025-06-24,China,Beauty & Personal Care,6,47.15,282.90,Pending
+ORD-11313,2025-02-08,Japan,Books & Media,6,68.49,410.94,Refunded
+ORD-11314,2026-05-29,China,Sports & Outdoors,1,51.17,51.17,Completed
+ORD-11315,2025-11-09,China,,8,41.72,333.76,Refunded
+ORD-11316,2026-07-09,India,Toys & Games,7,,,Processing
+ORD-11317,2025-10-01,Germany,Sports & Outdoors,3,207.95,623.85,Pending
+ORD-11318,2026-04-22,China,Sports & Outdoors,7,110.46,773.22,Completed
+ORD-11319,2025-04-30,United States,Beauty & Personal Care,5,54.64,273.20,Completed
+ORD-11320,2025-10-25,Japan,Toys & Games,10,55.16,551.60,Completed
+ORD-11321,2026-09-29,Germany,Beauty & Personal Care,9,81.46,733.14,Completed
+ORD-11322,,United States,Home & Kitchen,2,77.39,154.78,Refunded
+ORD-11323,2026-04-12,Canada,Apparel & Accessories,1,247.90,247.90,Completed
+ORD-11324,,Germany,Beauty & Personal Care,8,30.26,242.08,Completed
+ORD-11325,2026-03-19,China,Sports & Outdoors,2,168.75,337.50,Refunded
+ORD-11326,2025-11-25,United States,Electronics,2,281.62,563.24,Completed
+ORD-11327,2025-05-27,China,Books & Media,1,10.05,10.05,Completed
+ORD-11328,2026-02-21,France,Toys & Games,10,73.36,733.60,Refunded
+ORD-11329,2026-03-29,Germany,Home & Kitchen,,54.64,,Completed
+ORD-11330,2026-04-04,Japan,Health & Wellness,11,55.13,606.43,Completed
+ORD-11331,2026-02-12,India,Toys & Games,6,39.85,239.10,Pending
+ORD-11332,2025-05-29,France,Health & Wellness,,37.05,,Pending
+ORD-11333,2025-01-06,China,Beauty & Personal Care,11,56.08,616.88,Completed
+ORD-11334,2026-07-29,United States,Books & Media,2,24.01,48.02,Cancelled
+ORD-11335,,Germany,Electronics,3,753.09,"2,259.27",Processing
+ORD-11336,2025-04-04,Japan,Sports & Outdoors,7,132.10,924.70,Completed
+ORD-11337,2025-05-23,Australia,Health & Wellness,7,,,Cancelled
+ORD-11338,2025-06-16,,Beauty & Personal Care,11,26.82,295.02,Completed
+ORD-11339,2026-07-15,Brazil,,2,202.15,404.30,Pending
+ORD-11340,2026-04-22,Brazil,Sports & Outdoors,1,79.84,79.84,Completed
+ORD-11341,2025-12-13,China,Beauty & Personal Care,5,81.79,408.95,Refunded
+ORD-11342,2026-06-21,United States,Books & Media,4,50.26,201.04,Refunded
+ORD-11343,2025-10-12,United States,Health & Wellness,2,11.81,23.62,Pending
+ORD-11344,2026-05-28,France,Electronics,,413.59,,Processing
+ORD-11345,2026-06-10,,Beauty & Personal Care,12,59.02,708.24,Completed
+ORD-11346,2025-06-08,United States,Beauty & Personal Care,12,50.01,600.12,Pending
+ORD-11347,2026-07-28,,Toys & Games,8,45.86,366.88,Completed
+ORD-11348,2025-05-09,United States,Electronics,1,938.03,938.03,Processing
+ORD-11349,2025-06-24,China,Apparel & Accessories,3,140.64,421.92,Refunded
+ORD-11344,2026-05-28,France,Electronics,1,413.59,413.59,Processing
+ORD-11350,2025-10-18,India,Apparel & Accessories,4,227.77,911.08,Processing
+ORD-11351,2025-03-09,,Home & Kitchen,6,51.92,311.52,Cancelled
+ORD-11352,2025-05-21,China,Apparel & Accessories,3,194.08,582.24,Processing
+ORD-11353,2025-05-09,United States,Apparel & Accessories,7,159.79,"1,118.53",Cancelled
+ORD-11354,2025-11-11,China,Home & Kitchen,5,210.03,"1,050.15",Completed
+ORD-11355,2025-02-03,France,Toys & Games,4,48.65,194.60,Processing
+ORD-11356,2026-05-12,Japan,Toys & Games,9,23.89,215.01,Cancelled
+ORD-11357,2025-11-30,United Kingdom,Toys & Games,2,62.64,125.28,Pending
+ORD-11358,2025-05-02,Canada,Apparel & Accessories,1,134.19,134.19,Completed
+ORD-11359,2025-03-02,United States,Toys & Games,12,31.39,376.68,Completed
+ORD-11360,2025-07-20,Canada,Beauty & Personal Care,4,49.94,199.76,Completed
+ORD-11361,2025-05-31,Japan,Beauty & Personal Care,8,27.09,216.72,Pending
+ORD-11362,2025-07-11,China,Beauty & Personal Care,2,35.20,70.40,Processing
+ORD-11363,2026-02-17,United States,Books & Media,7,63.55,444.85,Refunded
+ORD-11364,2026-03-21,France,Beauty & Personal Care,10,33.04,330.40,Completed
+ORD-11365,2025-01-01,France,Electronics,1,436.05,436.05,Processing
+ORD-11366,2026-04-09,Japan,,6,169.89,"1,019.34",Completed
+ORD-11367,2025-05-27,,Home & Kitchen,5,116.64,583.20,Completed
+ORD-11368,2025-05-26,South Korea,Books & Media,9,73.19,658.71,Completed
+ORD-11369,2026-03-28,China,Sports & Outdoors,6,198.00,"1,188.00",Completed
+ORD-11370,2025-07-14,Japan,Apparel & Accessories,5,243.62,"1,218.10",Completed
+ORD-11371,2025-08-05,Germany,Toys & Games,6,54.11,324.66,Completed
+ORD-11372,2025-04-14,Japan,Apparel & Accessories,1,143.29,143.29,Refunded
+ORD-11373,2025-09-19,United Kingdom,Home & Kitchen,7,154.16,"1,079.12",Completed
+ORD-11374,2025-12-08,United States,Apparel & Accessories,5,78.19,390.95,Refunded
+ORD-11375,2025-10-26,United Kingdom,Beauty & Personal Care,,66.72,,Completed
+ORD-11376,2025-02-20,United States,Books & Media,11,74.04,814.44,Completed
+ORD-11377,2026-04-12,Canada,Beauty & Personal Care,1,72.50,72.50,Completed
+ORD-11378,2025-11-15,China,Sports & Outdoors,8,237.02,"1,896.16",Completed
+ORD-11379,2026-07-20,United States,Toys & Games,2,35.63,71.26,
+ORD-11380,2026-08-28,United States,Beauty & Personal Care,12,59.48,713.76,Refunded
+ORD-11381,2026-04-09,China,Toys & Games,3,60.21,180.63,Refunded
+ORD-11382,2025-02-06,United States,Home & Kitchen,8,154.82,"1,238.56",Completed
+ORD-11383,2026-08-23,United States,Electronics,3,132.27,396.81,Pending
+ORD-11384,2026-06-21,Germany,Health & Wellness,2,54.81,109.62,Completed
+ORD-11385,2025-02-14,China,Home & Kitchen,5,104.86,524.30,Processing
+ORD-11386,2025-03-25,United States,,3,"1,086.26","3,258.78",Pending
+ORD-11387,2025-12-13,Germany,Apparel & Accessories,5,170.19,850.95,Processing
+ORD-11388,2025-05-13,India,Sports & Outdoors,1,132.11,132.11,Completed
+ORD-11389,2025-08-21,Australia,Beauty & Personal Care,3,67.60,202.80,Completed
+ORD-11390,2025-10-03,China,Electronics,1,134.04,134.04,Pending
+ORD-11391,2025-09-30,United States,Toys & Games,3,62.38,187.14,Completed
+ORD-11392,2025-07-03,Japan,Apparel & Accessories,8,25.61,204.88,Completed
+ORD-11393,2026-03-02,China,Home & Kitchen,7,101.65,711.55,Refunded
+ORD-11394,2025-04-01,United States,Apparel & Accessories,7,239.58,"1,677.06",Completed
+ORD-11395,2025-04-20,China,Apparel & Accessories,5,234.29,"1,171.45",Cancelled
+ORD-11396,2026-04-27,China,Beauty & Personal Care,7,11.50,80.50,Completed
+ORD-11397,2025-09-05,Canada,Health & Wellness,8,53.87,430.96,Processing
+ORD-11398,2026-05-17,China,Books & Media,1,10.64,10.64,Refunded
+ORD-11399,2025-07-29,United States,,8,94.21,753.68,Cancelled
+ORD-11400,2026-04-08,China,Home & Kitchen,7,111.72,782.04,Pending
+ORD-11401,2025-12-30,China,Books & Media,2,37.50,75.00,Completed
+ORD-11402,2025-03-19,Japan,Toys & Games,2,21.53,43.06,Completed
+ORD-11403,2025-04-06,United States,Health & Wellness,2,74.88,149.76,Completed
+ORD-11404,2025-06-23,United States,Home & Kitchen,5,66.75,333.75,Completed
+ORD-11405,2026-02-06,China,Electronics,1,746.84,746.84,Completed
+ORD-11406,2026-03-18,United Kingdom,Health & Wellness,4,21.20,84.80,Completed
+ORD-11407,2026-09-29,Canada,Beauty & Personal Care,12,48.13,577.56,Cancelled
+ORD-11408,2025-01-31,Germany,Apparel & Accessories,1,158.05,158.05,Processing
+ORD-11409,2026-05-21,Germany,Sports & Outdoors,5,89.90,449.50,Cancelled
+ORD-11410,2025-03-29,China,Beauty & Personal Care,9,73.82,664.38,Completed
+ORD-11411,2026-07-19,United States,Electronics,4,"1,001.04","4,004.16",Refunded
+ORD-11412,2026-05-12,United Kingdom,Toys & Games,11,37.30,410.30,Completed
+ORD-11413,2026-08-21,United Kingdom,Apparel & Accessories,8,56.81,454.48,Refunded
+ORD-11414,2026-07-11,Canada,,4,55.33,221.32,Completed
+ORD-11415,2025-02-11,China,Sports & Outdoors,3,203.42,610.26,Pending
+ORD-11416,2025-06-19,United States,Sports & Outdoors,2,35.17,70.34,Processing
+ORD-11417,2025-06-28,United States,Electronics,1,609.93,609.93,Completed
+ORD-11418,,United States,Health & Wellness,7,,,Completed
+ORD-11419,2026-04-04,Germany,Apparel & Accessories,4,218.04,872.16,Completed
+ORD-11420,2025-09-14,United States,Home & Kitchen,4,105.49,421.96,Refunded
+ORD-11421,2025-11-06,United States,Beauty & Personal Care,3,25.83,77.49,Cancelled
+ORD-11422,2025-08-16,Japan,Beauty & Personal Care,5,31.25,156.25,Refunded
+ORD-11423,2026-09-04,China,Apparel & Accessories,5,143.55,717.75,Processing
+ORD-11424,2025-05-28,China,Beauty & Personal Care,3,69.80,209.40,Completed
+ORD-11425,2026-05-14,Australia,Toys & Games,10,63.95,639.50,Refunded
+ORD-11426,2026-02-24,India,Sports & Outdoors,2,97.62,195.24,Pending
+ORD-11427,2026-04-08,United States,Books & Media,4,24.25,97.00,Pending
+ORD-11428,2026-07-08,United Kingdom,Toys & Games,2,32.55,65.10,Completed
+ORD-11429,2025-02-17,Canada,,5,229.22,"1,146.10",Processing
+ORD-11430,2025-05-12,Germany,Home & Kitchen,6,155.16,930.96,Completed
+ORD-11431,2026-04-06,China,Beauty & Personal Care,5,56.04,280.20,Completed
+ORD-11432,2025-07-03,United States,Sports & Outdoors,2,68.62,137.24,Completed
+ORD-11433,2026-06-04,United States,Health & Wellness,12,63.32,759.84,Completed
+ORD-11425,2026-05-14,Australia,Toys & Games,10,63.95,639.50,Refunded
+ORD-11434,2025-09-14,Japan,Sports & Outdoors,5,240.23,"1,201.15",Refunded
+ORD-11435,2025-11-28,Germany,Health & Wellness,5,77.55,387.75,Cancelled
+ORD-11436,2026-04-28,India,Sports & Outdoors,7,16.42,114.94,Pending
+ORD-11437,2025-11-29,United States,Home & Kitchen,2,68.80,137.60,Cancelled
+ORD-11438,2026-02-01,Australia,Electronics,2,"1,044.86","2,089.72",Completed
+ORD-11439,2025-02-07,,Books & Media,12,,,Completed
+ORD-11440,2026-08-25,United Kingdom,Health & Wellness,12,57.42,689.04,Cancelled
+ORD-11441,2026-05-01,South Korea,Electronics,3,122.27,366.81,Cancelled
+ORD-11442,2025-08-03,United Kingdom,Apparel & Accessories,1,15.40,15.40,Cancelled
+ORD-11443,2026-08-20,United States,Electronics,4,"1,182.31","4,729.24",Pending
+ORD-11444,2025-07-26,Canada,Beauty & Personal Care,2,42.03,84.06,Pending
+ORD-11445,,China,Sports & Outdoors,8,28.17,225.36,Completed
+ORD-11446,2026-08-26,China,Apparel & Accessories,3,131.02,393.06,Completed
+ORD-11447,2025-01-07,China,Sports & Outdoors,3,176.80,530.40,Refunded
+ORD-11448,2026-09-09,United States,Toys & Games,11,25.91,285.01,Completed
+ORD-11449,2026-04-10,Germany,Toys & Games,9,13.86,124.74,Completed
+ORD-11450,2025-03-12,Germany,Electronics,4,574.99,"2,299.96",Completed
+ORD-11451,2025-01-27,China,Apparel & Accessories,5,216.02,"1,080.10",Cancelled
+ORD-11452,2026-04-03,United States,Electronics,4,971.48,"3,885.92",Cancelled
+ORD-11453,2025-03-23,India,Sports & Outdoors,6,197.77,"1,186.62",Pending
+ORD-11454,2025-12-01,United States,Sports & Outdoors,6,157.81,946.86,Pending
+ORD-11455,2026-05-07,United States,Beauty & Personal Care,2,46.92,93.84,Completed
+ORD-11456,2026-05-09,Canada,Electronics,3,207.58,622.74,Processing
+ORD-11457,2025-05-15,China,Books & Media,8,41.36,330.88,Completed
+ORD-11458,2025-10-19,United States,Apparel & Accessories,2,181.66,363.32,Pending
+ORD-11459,2026-01-20,China,Beauty & Personal Care,6,76.25,457.50,Pending
+ORD-11460,2026-05-05,United States,Home & Kitchen,1,84.06,84.06,Pending
+ORD-11461,2025-09-19,United States,Health & Wellness,11,18.38,202.18,Completed
+ORD-11462,2025-10-21,China,Books & Media,1,44.76,44.76,Completed
+ORD-11463,2026-06-19,Canada,Health & Wellness,4,49.61,198.44,Processing
+ORD-11464,2026-08-02,United States,Sports & Outdoors,4,25.59,102.36,Pending
+ORD-11465,2026-06-05,Canada,,4,244.01,976.04,Pending
+ORD-11466,2025-12-09,United States,Apparel & Accessories,,181.45,,Refunded
+ORD-11467,2025-05-07,United States,Sports & Outdoors,1,146.35,146.35,Cancelled
+ORD-11468,2025-11-14,Canada,Health & Wellness,1,45.78,45.78,Completed
+ORD-11469,2025-04-04,Mexico,Home & Kitchen,2,183.52,367.04,Completed
+ORD-11470,2026-01-24,Brazil,,3,113.46,340.38,Completed
+ORD-11471,2026-02-17,France,Apparel & Accessories,8,155.84,"1,246.72",Processing
+ORD-11472,2026-09-30,United Kingdom,Sports & Outdoors,1,43.19,43.19,Cancelled
+ORD-11473,2025-10-24,United States,Sports & Outdoors,5,229.59,"1,147.95",Completed
+ORD-11474,2026-07-22,China,Electronics,1,"1,112.79","1,112.79",Completed
+ORD-11475,2025-05-11,United States,Books & Media,3,81.47,244.41,Completed
+ORD-11476,2026-09-24,United States,Home & Kitchen,8,32.16,257.28,Cancelled
+ORD-11477,2026-07-13,China,Home & Kitchen,5,88.84,444.20,Pending
+ORD-11478,2025-07-26,Canada,Sports & Outdoors,5,57.92,289.60,Completed
+ORD-11479,2025-09-14,China,Health & Wellness,11,13.62,149.82,Completed
+ORD-11480,2026-05-02,India,Beauty & Personal Care,2,42.70,85.40,Cancelled
+ORD-11481,2026-02-16,India,Toys & Games,7,24.59,172.13,Processing
+ORD-11482,2025-05-27,China,Toys & Games,10,12.11,121.10,Completed
+ORD-11483,2025-08-19,India,Toys & Games,4,62.27,249.08,Cancelled
+ORD-11484,2025-03-06,Australia,,9,53.44,480.96,Completed
+ORD-11485,,United States,Health & Wellness,5,16.07,80.35,Completed
+ORD-11486,2025-08-25,Mexico,Electronics,3,664.98,"1,994.94",Completed
+ORD-11487,2026-07-15,United States,Home & Kitchen,7,107.63,753.41,Refunded
+ORD-11488,2025-12-27,United States,Home & Kitchen,8,153.80,"1,230.40",Completed
+ORD-11489,,,Electronics,2,981.32,"1,962.64",Processing
+ORD-11490,2026-04-18,China,Toys & Games,2,34.03,68.06,Completed
+ORD-11491,2025-08-12,,Home & Kitchen,7,63.15,442.05,Pending
+ORD-11492,2025-06-03,India,Apparel & Accessories,4,242.86,971.44,Completed
+ORD-11493,2025-03-24,China,Toys & Games,6,19.50,117.00,Completed
+ORD-11494,2026-07-02,United States,Books & Media,6,30.50,183.00,Completed
+ORD-11495,2025-12-14,,Electronics,2,"1,076.43","2,152.86",Pending
+ORD-11496,2025-07-03,United Kingdom,Sports & Outdoors,7,108.55,759.85,Completed
+ORD-11497,2026-06-28,United States,Sports & Outdoors,7,143.35,"1,003.45",Completed
+ORD-11498,2026-04-21,Germany,Home & Kitchen,7,186.04,"1,302.28",Completed
+ORD-11499,2025-12-16,United States,Books & Media,11,13.49,148.39,Processing
+ORD-11500,2025-05-01,India,Sports & Outdoors,,237.26,,Completed
+ORD-11501,2025-12-21,United Kingdom,Apparel & Accessories,1,82.70,82.70,Pending
+ORD-11502,2025-09-19,United States,Health & Wellness,9,32.03,288.27,Pending
+ORD-11503,2026-02-19,United States,Sports & Outdoors,4,156.98,627.92,Completed
+ORD-11504,2025-02-04,China,Apparel & Accessories,6,207.55,"1,245.30",Pending
+ORD-11505,2026-04-27,United States,Apparel & Accessories,2,42.40,84.80,Pending
+ORD-11506,2025-10-21,United Kingdom,Health & Wellness,9,53.71,483.39,Cancelled
+ORD-11507,2026-02-16,Germany,Books & Media,,11.52,,Cancelled
+ORD-11508,2025-11-17,United States,Beauty & Personal Care,9,63.11,567.99,Processing
+ORD-11509,2025-10-14,Germany,Home & Kitchen,5,133.88,669.40,Completed
+ORD-11510,2026-03-14,China,Electronics,1,345.65,345.65,Processing
+ORD-11511,2025-12-25,Japan,Toys & Games,5,81.92,409.60,Completed
+ORD-11512,2025-09-05,United States,,8,198.19,"1,585.52",Completed
+ORD-11513,2025-12-24,Japan,Electronics,1,"1,007.22","1,007.22",Refunded
+ORD-11514,2026-07-03,United States,Sports & Outdoors,5,115.04,575.20,Completed
+ORD-11515,2026-07-01,Japan,Apparel & Accessories,3,77.04,231.12,Completed
+ORD-11516,2026-05-05,,Sports & Outdoors,1,200.02,200.02,Completed
+ORD-11517,2025-07-14,China,Electronics,1,88.53,88.53,Refunded
+ORD-11518,2025-10-04,Japan,Apparel & Accessories,6,,,Cancelled
+ORD-11519,2025-05-25,United States,Toys & Games,1,22.00,22.00,Refunded
+ORD-11520,2026-02-09,South Korea,Home & Kitchen,,201.06,,Completed
+ORD-11521,2026-03-30,Japan,Toys & Games,3,65.26,195.78,Refunded
+ORD-11522,2026-06-03,Japan,,5,36.40,182.00,Completed
+ORD-11523,2026-07-12,Germany,Sports & Outdoors,7,223.48,"1,564.36",Cancelled
+ORD-11524,2026-05-13,France,Apparel & Accessories,6,33.34,200.04,
+ORD-11525,2026-03-13,Germany,,3,84.72,254.16,Pending
+ORD-11526,2025-10-06,United States,Beauty & Personal Care,6,55.15,330.90,Refunded
+ORD-11527,2025-08-14,China,Toys & Games,3,54.37,163.11,Completed
+ORD-11528,2026-03-07,Canada,Toys & Games,10,58.41,584.10,Completed
+ORD-11529,2026-05-10,United Kingdom,Apparel & Accessories,4,60.46,241.84,Completed
+ORD-11530,2026-09-07,India,Books & Media,1,76.38,76.38,Completed
+ORD-11531,2026-03-19,United Kingdom,Beauty & Personal Care,2,70.58,141.16,Refunded
+ORD-11532,2026-03-13,Germany,Health & Wellness,2,27.45,54.90,Pending
+ORD-11533,2025-08-23,China,Sports & Outdoors,4,132.90,531.60,Completed
+ORD-11534,,United States,Sports & Outdoors,,71.42,,Completed
+ORD-11535,2025-06-06,China,Health & Wellness,4,28.36,113.44,Completed
+ORD-11536,2025-04-01,United States,Toys & Games,9,52.75,474.75,Completed
+ORD-11537,2025-04-07,China,Toys & Games,6,13.56,81.36,Pending
+ORD-11538,2025-02-16,United States,Toys & Games,4,64.10,256.40,Refunded
+ORD-11539,2025-02-06,Germany,Books & Media,8,50.70,405.60,Completed
+ORD-11540,2025-05-03,,Beauty & Personal Care,11,67.95,747.45,Refunded
+ORD-11541,2026-07-20,Brazil,Electronics,1,98.60,98.60,Pending
+ORD-11542,2026-06-05,China,Electronics,1,434.45,434.45,Processing
+ORD-11543,2025-04-06,United States,Toys & Games,10,33.51,335.10,Completed
+ORD-11544,2025-02-10,Germany,,6,50.64,303.84,Cancelled
+ORD-11545,2025-09-01,Japan,Sports & Outdoors,2,189.24,378.48,Refunded
+ORD-11546,2025-06-04,Germany,Apparel & Accessories,8,54.20,433.60,Completed
+ORD-11547,2025-09-13,Japan,Apparel & Accessories,8,15.19,121.52,Cancelled
+ORD-11548,2025-12-13,United Kingdom,Beauty & Personal Care,8,35.05,280.40,Completed
+ORD-11549,2025-05-08,Germany,Sports & Outdoors,5,,,Completed
+ORD-11550,2026-07-24,United States,Health & Wellness,3,51.30,153.90,Completed
+ORD-11541,2026-07-20,Brazil,Electronics,1,98.60,98.60,Pending
+ORD-11551,2025-12-07,United States,Books & Media,7,18.87,132.09,Cancelled
+ORD-11552,2026-08-14,United States,Sports & Outdoors,7,204.60,"1,432.20",Completed
+ORD-11553,2026-06-02,,Sports & Outdoors,3,33.64,100.92,Completed
+ORD-11554,2026-09-17,United Kingdom,Books & Media,3,76.11,228.33,Processing
+ORD-11555,2025-07-07,China,Books & Media,8,45.45,363.60,Pending
+ORD-11556,2026-05-22,United Kingdom,Apparel & Accessories,3,37.63,112.89,Completed
+ORD-11557,2025-02-13,United States,Home & Kitchen,7,27.45,192.15,Cancelled
+ORD-11558,2025-08-19,China,Books & Media,1,64.21,64.21,Pending
+ORD-11559,2025-04-21,China,Home & Kitchen,7,165.00,"1,155.00",Pending
+ORD-11560,2026-02-03,United Kingdom,Home & Kitchen,2,209.13,418.26,Cancelled
+ORD-11561,2025-10-18,Canada,Home & Kitchen,5,159.79,798.95,
+ORD-11562,2026-09-03,United States,Beauty & Personal Care,3,62.12,186.36,Refunded
+ORD-11563,2025-08-06,United States,Apparel & Accessories,6,47.76,286.56,Completed
+ORD-11564,2025-09-27,United Kingdom,Home & Kitchen,2,168.12,336.24,Refunded
+ORD-11565,2025-11-10,United States,Apparel & Accessories,8,63.22,505.76,Pending
+ORD-11566,2025-06-22,United Kingdom,Toys & Games,6,82.38,494.28,Processing
+ORD-11567,2026-09-10,China,Apparel & Accessories,6,54.46,326.76,Completed
+ORD-11568,2026-03-04,Canada,Toys & Games,8,11.97,95.76,Cancelled
+ORD-11569,2025-02-18,China,Sports & Outdoors,2,23.77,47.54,Completed
+ORD-11570,2026-09-20,China,Apparel & Accessories,1,40.51,40.51,Processing
+ORD-11571,2025-07-07,United States,Apparel & Accessories,7,222.01,"1,554.07",Processing
+ORD-11572,2025-10-09,China,Electronics,2,,,Completed
+ORD-11573,2026-04-16,Australia,Toys & Games,3,42.01,126.03,Completed
+ORD-11574,2025-04-09,United States,Apparel & Accessories,3,177.75,533.25,Refunded
+ORD-11575,2025-03-22,China,Toys & Games,2,37.41,74.82,Completed
+ORD-11576,2026-07-08,Canada,Toys & Games,4,77.18,308.72,Pending
+ORD-11571,,United States,Apparel & Accessories,7,222.01,"1,554.07",Processing
+ORD-11577,2026-09-07,Australia,Electronics,4,178.26,713.04,Cancelled
+ORD-11578,2025-01-05,Japan,Health & Wellness,12,24.31,291.72,Processing
+ORD-11579,2026-06-21,United States,Books & Media,,26.01,,Cancelled
+ORD-11580,2025-09-30,United States,Health & Wellness,3,38.04,114.12,Completed
+ORD-11581,2026-08-26,United States,Apparel & Accessories,5,139.33,696.65,
+ORD-11582,2026-05-22,China,Health & Wellness,3,46.18,138.54,Completed
+ORD-11583,2025-03-01,Germany,Sports & Outdoors,4,218.16,872.64,Refunded
+ORD-11584,2026-02-15,United States,Home & Kitchen,2,142.33,284.66,Completed
+ORD-11585,2025-03-06,Canada,Toys & Games,8,49.86,398.88,Pending
+ORD-11586,2026-07-02,China,Electronics,4,785.70,"3,142.80",Completed
+ORD-11587,2025-03-02,Germany,Apparel & Accessories,5,155.39,776.95,Pending
+ORD-11588,2025-04-08,China,Home & Kitchen,3,240.51,721.53,Processing
+ORD-11589,2026-08-18,United States,Electronics,4,277.58,"1,110.32",Refunded
+ORD-11590,2025-07-23,China,Electronics,4,614.61,"2,458.44",Completed
+ORD-11591,2025-05-29,China,Home & Kitchen,3,249.83,749.49,Completed
+ORD-11592,2025-04-10,United States,Apparel & Accessories,4,24.22,96.88,Completed
+ORD-11593,2025-01-30,United States,,4,,,Completed
+ORD-11594,2026-05-27,India,Sports & Outdoors,5,195.03,975.15,Cancelled
+ORD-11595,2025-05-16,United States,Toys & Games,3,36.17,108.51,Pending
+ORD-11596,2026-06-15,Japan,Apparel & Accessories,,121.93,,Cancelled
+ORD-11597,2026-05-19,Canada,Beauty & Personal Care,3,33.02,99.06,Refunded
+ORD-11598,2026-08-19,,Health & Wellness,,82.68,,Processing
+ORD-11599,2026-08-29,Australia,Books & Media,10,42.84,428.40,Pending
+ORD-11600,2026-02-28,Brazil,Electronics,3,753.56,"2,260.68",Completed
+ORD-11601,2025-04-13,United States,Sports & Outdoors,6,54.06,324.36,Completed
+ORD-11602,2025-01-01,China,Sports & Outdoors,1,141.00,141.00,Completed
+ORD-11603,2025-10-14,United States,Health & Wellness,3,76.24,228.72,Processing
+ORD-11604,,United Kingdom,Health & Wellness,3,19.60,58.80,Processing
+ORD-11605,2026-08-08,United States,Health & Wellness,7,84.90,594.30,Cancelled
+ORD-11606,2025-06-08,India,,10,8.39,83.90,Completed
+ORD-11607,2025-10-30,United Kingdom,Home & Kitchen,3,103.05,309.15,Completed
+ORD-11608,2025-07-29,United Kingdom,Home & Kitchen,5,236.24,"1,181.20",Cancelled
+ORD-11609,2026-06-24,United States,Apparel & Accessories,8,159.67,"1,277.36",Completed
+ORD-11601,2025-04-13,,Sports & Outdoors,6,54.06,324.36,Completed
+ORD-11610,2026-04-15,France,Apparel & Accessories,2,95.70,191.40,Completed
+ORD-11611,2025-04-01,South Korea,Sports & Outdoors,,43.18,,Refunded
+ORD-11612,2026-06-13,China,Home & Kitchen,7,213.08,"1,491.56",Completed
+ORD-11613,2025-07-27,China,Home & Kitchen,1,224.80,224.80,Processing
+ORD-11614,2025-05-22,China,Beauty & Personal Care,8,71.26,570.08,Completed
+ORD-11615,,Germany,Apparel & Accessories,1,,,Completed
+ORD-11616,2026-05-30,South Korea,Beauty & Personal Care,8,73.82,590.56,Pending
+ORD-11617,2025-04-17,India,Home & Kitchen,4,106.11,424.44,Completed
+ORD-11618,2025-02-11,United States,Health & Wellness,7,25.37,177.59,Processing
+ORD-11619,2026-03-23,United States,Sports & Outdoors,,233.82,,Completed
+ORD-11620,2025-04-29,,Toys & Games,2,20.94,41.88,Cancelled
+ORD-11621,2026-07-04,United Kingdom,Health & Wellness,1,13.65,13.65,Completed
+ORD-11622,2025-04-04,United States,Toys & Games,4,53.89,215.56,Pending
+ORD-11623,2026-09-04,Japan,Health & Wellness,6,78.15,468.90,Completed
+ORD-11624,2025-12-29,United Kingdom,Books & Media,7,28.15,197.05,Refunded
+ORD-11625,2026-08-21,United States,Books & Media,5,50.19,250.95,Processing
+ORD-11626,2026-08-25,China,Electronics,2,857.75,"1,715.50",Completed
+ORD-11627,2026-03-26,United States,Apparel & Accessories,4,129.30,517.20,Refunded
+ORD-11628,2025-09-30,,Books & Media,5,53.08,265.40,Refunded
+ORD-11629,2026-08-03,China,,,63.13,,Completed
+ORD-11630,2025-04-12,Germany,Books & Media,12,46.31,555.72,Completed
+ORD-11631,2025-07-04,China,Health & Wellness,9,38.55,346.95,Cancelled
+ORD-11632,,Japan,,4,18.14,72.56,Completed
+ORD-11633,2025-05-12,United States,Apparel & Accessories,7,113.94,797.58,Completed
+ORD-11634,2025-05-06,Australia,Toys & Games,1,56.64,56.64,Completed
+ORD-11635,2025-03-29,Mexico,Home & Kitchen,5,194.73,973.65,Pending
+ORD-11636,2025-10-01,Brazil,Books & Media,11,68.44,752.84,Completed
+ORD-11637,2025-09-26,Australia,Electronics,4,446.51,"1,786.04",Completed
+ORD-11638,2025-04-02,Brazil,Books & Media,6,53.29,319.74,Refunded
+ORD-11639,2025-04-16,China,Apparel & Accessories,5,107.81,539.05,Completed
+ORD-11640,2025-01-04,United States,Apparel & Accessories,5,24.91,124.55,Completed
+ORD-11641,2026-05-22,Japan,Electronics,4,782.38,"3,129.52",Completed
+ORD-11642,2025-01-17,Canada,Electronics,1,695.31,695.31,Processing
+ORD-11643,2026-08-22,China,Books & Media,9,64.29,578.61,Refunded
+ORD-11644,2025-07-03,United Kingdom,Books & Media,10,32.11,321.10,Cancelled
+ORD-11645,2025-01-29,Japan,Health & Wellness,10,71.42,714.20,Completed
+ORD-11646,2026-06-13,Australia,Apparel & Accessories,5,198.58,992.90,Completed
+ORD-11647,,Canada,Books & Media,4,72.87,291.48,Completed
+ORD-11648,2025-09-18,Australia,Beauty & Personal Care,4,42.88,171.52,Completed
+ORD-11649,2026-04-28,Canada,Health & Wellness,10,32.98,329.80,Completed
+ORD-11650,2025-12-07,India,Electronics,2,"1,182.18","2,364.36",Refunded
+ORD-11651,2026-05-26,United States,,9,15.59,140.31,Completed
+ORD-11652,2026-04-18,Japan,Home & Kitchen,1,25.01,25.01,Completed
+ORD-11653,2025-10-21,United States,Beauty & Personal Care,6,,,Completed
+ORD-11654,2025-02-03,China,Home & Kitchen,6,113.14,678.84,Completed
+ORD-11655,2026-05-24,,Electronics,2,696.53,"1,393.06",Completed
+ORD-11656,2026-05-25,United Kingdom,Beauty & Personal Care,9,11.31,101.79,Completed
+ORD-11657,2025-07-04,China,Books & Media,5,50.88,254.40,Cancelled
+ORD-11658,2025-12-03,Germany,Health & Wellness,7,16.28,113.96,Cancelled
+ORD-11659,2026-02-21,,Books & Media,2,54.81,109.62,Cancelled
+ORD-11660,2026-01-22,Germany,Toys & Games,8,25.97,207.76,Completed
+ORD-11661,2026-04-06,Australia,Home & Kitchen,1,33.26,33.26,
+ORD-11662,2026-01-27,United Kingdom,Electronics,3,428.03,"1,284.09",Completed
+ORD-11663,2026-04-07,China,Sports & Outdoors,6,82.31,493.86,Completed
+ORD-11664,2025-04-08,United States,Sports & Outdoors,2,135.77,271.54,
+ORD-11665,2025-04-04,China,Sports & Outdoors,6,241.14,"1,446.84",Refunded
+ORD-11666,2025-10-09,Germany,Sports & Outdoors,2,131.34,262.68,Refunded
+ORD-11667,2026-07-31,United States,Beauty & Personal Care,5,65.78,328.90,Completed
+ORD-11668,2025-11-03,United States,Books & Media,6,76.98,461.88,Completed
+ORD-11669,2025-05-12,United States,Electronics,1,"1,078.80","1,078.80",Pending
+ORD-11670,2025-11-18,United States,Apparel & Accessories,5,206.89,"1,034.45",Completed
+ORD-11671,2026-08-31,United States,Books & Media,12,42.08,504.96,Completed
+ORD-11672,2025-12-09,China,Home & Kitchen,5,233.85,"1,169.25",Pending
+ORD-11673,2025-09-13,United Kingdom,Sports & Outdoors,4,248.09,992.36,Completed
+ORD-11674,2026-02-16,United Kingdom,Home & Kitchen,5,175.52,877.60,Completed
+ORD-11675,2026-07-15,United States,Sports & Outdoors,6,73.29,439.74,Refunded
+ORD-11676,2025-10-22,China,Electronics,4,205.75,823.00,Processing
+ORD-11677,2025-01-04,,Health & Wellness,8,78.06,624.48,Pending
+ORD-11678,2026-03-12,Japan,Beauty & Personal Care,,35.61,,Completed
+ORD-11679,2025-08-16,Germany,Home & Kitchen,3,163.78,491.34,Pending
+ORD-11680,,India,Home & Kitchen,1,72.51,72.51,Completed
+ORD-11681,2025-05-16,United States,,10,48.04,480.40,Processing
+ORD-11682,,Australia,Home & Kitchen,4,101.67,406.68,Pending
+ORD-11683,2025-10-24,Germany,Toys & Games,6,21.30,127.80,Processing
+ORD-11684,2025-12-15,United States,Toys & Games,,,,Completed
+ORD-11685,2025-04-15,United States,Apparel & Accessories,3,58.96,176.88,Pending
+ORD-11686,2025-06-23,Japan,Health & Wellness,7,59.74,418.18,Pending
+ORD-11687,2026-04-01,United States,Health & Wellness,10,26.34,263.40,Completed
+ORD-11688,2026-06-04,,Beauty & Personal Care,9,17.30,155.70,Processing
+ORD-11689,2025-11-19,China,Toys & Games,7,24.96,174.72,Completed
+ORD-11690,2026-03-10,United States,Apparel & Accessories,8,185.27,"1,482.16",Completed
+ORD-11691,2025-03-05,United States,Health & Wellness,12,66.90,802.80,Refunded
+ORD-11692,2025-05-15,United States,Apparel & Accessories,1,85.80,85.80,Refunded
+ORD-11693,2025-10-28,Brazil,Toys & Games,7,42.62,298.34,Completed
+ORD-11693,2025-10-28,,Toys & Games,7,42.62,298.34,Completed
+ORD-11694,2025-12-31,United States,Apparel & Accessories,6,,,Cancelled
+ORD-11695,2025-12-21,United Kingdom,Electronics,3,401.43,"1,204.29",Completed
+ORD-11696,2025-06-09,United States,Home & Kitchen,1,214.76,214.76,Cancelled
+ORD-11697,2026-03-24,China,,1,60.56,60.56,Pending
+ORD-11698,2026-09-04,United States,Books & Media,5,78.20,391.00,Completed
+ORD-11699,2025-12-19,Japan,Home & Kitchen,6,243.77,"1,462.62",Completed
+ORD-11700,2026-01-28,,Electronics,4,"1,027.89","4,111.56",Completed
+ORD-11701,2026-08-22,United Kingdom,Electronics,2,640.72,"1,281.44",Completed
+ORD-11702,2026-03-18,United Kingdom,,1,83.99,83.99,Processing
+ORD-11703,2026-05-04,United States,Sports & Outdoors,4,205.57,822.28,Completed
+ORD-11704,2026-09-24,China,Electronics,2,,,Processing
+ORD-11705,2025-05-29,United Kingdom,Toys & Games,1,50.47,50.47,Pending
+ORD-11706,2026-05-15,India,Beauty & Personal Care,5,61.47,307.35,Completed
+ORD-11707,2025-10-25,China,Sports & Outdoors,2,,,Completed
+ORD-11708,,Germany,Electronics,4,862.97,"3,451.88",Refunded
+ORD-11709,2025-06-30,Japan,Home & Kitchen,8,173.64,"1,389.12",Completed
+ORD-11710,2026-01-26,Mexico,Health & Wellness,7,41.60,291.20,Completed
+ORD-11709,2025-06-30,Japan,Home & Kitchen,8,173.64,"1,389.12",Completed
+ORD-11711,2025-07-07,India,Toys & Games,6,71.42,428.52,Processing
+ORD-11712,2026-02-04,United States,Books & Media,5,45.81,229.05,Completed
+ORD-11713,2025-02-16,China,Books & Media,8,41.24,329.92,Refunded
+ORD-11714,2025-02-26,China,Electronics,4,902.32,"3,609.28",Completed
+ORD-11715,2026-01-08,Germany,Electronics,1,644.19,644.19,Refunded
+ORD-11716,,China,Health & Wellness,7,78.03,546.21,Completed
+ORD-11717,2026-03-30,United Kingdom,Health & Wellness,8,41.55,332.40,Completed
+ORD-11718,2025-07-29,United States,Books & Media,4,74.42,297.68,Completed
+ORD-11719,2025-06-26,France,Sports & Outdoors,1,244.20,244.20,Refunded
+ORD-11720,2025-03-14,United Kingdom,Sports & Outdoors,1,171.64,171.64,Completed
+ORD-11721,2026-05-22,Brazil,Electronics,,530.12,,Completed
+ORD-11722,2026-08-26,,Books & Media,11,26.81,294.91,Completed
+ORD-11723,2025-05-12,,Electronics,2,357.36,714.72,Refunded
+ORD-11724,2025-10-23,Germany,Electronics,4,729.14,"2,916.56",Completed
+ORD-11725,2026-08-02,United States,Sports & Outdoors,5,245.14,"1,225.70",Completed
+ORD-11726,2025-05-09,Canada,Toys & Games,5,60.99,304.95,Completed
+ORD-11727,2025-09-22,India,Electronics,2,787.36,"1,574.72",Processing
+ORD-11728,2026-06-11,Mexico,Health & Wellness,2,28.09,56.18,Processing
+ORD-11729,2025-03-27,India,Books & Media,7,42.81,299.67,Completed
+ORD-11730,2026-03-31,United States,Sports & Outdoors,5,211.04,"1,055.20",Processing
+ORD-11731,2026-09-29,China,Books & Media,8,74.77,598.16,Refunded
+ORD-11732,2025-07-21,United States,Health & Wellness,3,18.62,55.86,Completed
+ORD-11733,2026-01-04,United States,Health & Wellness,7,27.70,193.90,Refunded
+ORD-11734,2025-07-08,United States,Beauty & Personal Care,2,18.04,36.08,Completed
+ORD-11735,2025-01-05,India,Books & Media,9,12.98,116.82,Completed
+ORD-11736,2025-04-23,United States,Apparel & Accessories,4,147.75,591.00,Completed
+ORD-11737,2026-01-17,China,Apparel & Accessories,1,186.66,186.66,Pending
+ORD-11738,2025-06-01,,Beauty & Personal Care,10,38.66,386.60,Processing
+ORD-11739,2025-05-16,,Apparel & Accessories,5,54.17,270.85,Refunded
+ORD-11740,2026-06-19,Japan,Sports & Outdoors,6,240.83,"1,444.98",Pending
+ORD-11741,2026-06-16,United Kingdom,Sports & Outdoors,3,127.09,381.27,Cancelled
+ORD-11742,2026-01-06,United States,Health & Wellness,2,47.37,94.74,Completed
+ORD-11743,2025-04-18,,Books & Media,4,45.32,181.28,Completed
+ORD-11744,2025-02-28,China,Toys & Games,6,52.60,315.60,Completed
+ORD-11745,2025-09-07,China,Books & Media,,27.80,,Cancelled
+ORD-11736,2025-04-23,United States,Apparel & Accessories,4,147.75,591.00,Completed
+ORD-11746,2025-06-15,China,Health & Wellness,3,57.37,172.11,Completed
+ORD-11747,2025-08-11,India,Sports & Outdoors,7,200.48,"1,403.36",Completed
+ORD-11748,2026-03-27,Japan,Health & Wellness,2,19.85,39.70,Pending
+ORD-11749,2025-08-30,United Kingdom,Home & Kitchen,6,57.15,342.90,Refunded
+ORD-11750,2025-10-29,Canada,Apparel & Accessories,8,144.55,"1,156.40",Completed
+ORD-11751,2025-03-27,South Korea,Beauty & Personal Care,8,,,Completed
+ORD-11752,2026-08-22,United States,,10,33.27,332.70,Refunded
+ORD-11753,2025-12-22,Japan,Toys & Games,8,24.88,199.04,Completed
+ORD-11754,2026-01-20,Mexico,Books & Media,8,55.40,443.20,Pending
+ORD-11755,2025-12-25,China,Sports & Outdoors,5,,,Refunded
+ORD-11756,2026-01-30,United States,Toys & Games,9,34.32,308.88,Pending
+ORD-11757,2025-03-30,Canada,Toys & Games,1,28.13,28.13,Pending
+ORD-11758,2025-12-10,Australia,Books & Media,6,55.57,333.42,Refunded
+ORD-11759,2025-05-21,China,,7,234.21,"1,639.47",Processing
+ORD-11760,2025-10-04,China,Sports & Outdoors,4,170.33,681.32,Refunded
+ORD-11761,2025-09-25,India,Beauty & Personal Care,8,13.37,106.96,Pending
+ORD-11762,2025-12-31,China,Apparel & Accessories,3,115.36,346.08,Processing
+ORD-11763,2025-09-24,Japan,Books & Media,11,39.10,430.10,Refunded
+ORD-11764,2025-07-01,,Toys & Games,12,28.62,343.44,Completed
+ORD-11765,2025-03-08,United States,Apparel & Accessories,1,192.72,192.72,Cancelled
+ORD-11766,2026-09-12,China,Health & Wellness,6,72.79,436.74,Completed
+ORD-11767,2026-08-22,France,Electronics,1,121.52,121.52,
+ORD-11768,2025-05-01,United States,Beauty & Personal Care,3,62.63,187.89,Completed
+ORD-11769,2025-12-16,China,Sports & Outdoors,7,186.28,"1,303.96",Completed
+ORD-11770,2026-09-12,South Korea,Apparel & Accessories,8,214.18,"1,713.44",Refunded
+ORD-11771,2026-08-25,China,Beauty & Personal Care,9,51.88,466.92,Completed
+ORD-11772,2025-12-03,Germany,Home & Kitchen,7,129.62,907.34,Pending
+ORD-11773,2025-02-21,United States,Books & Media,7,17.41,121.87,Completed
+ORD-11774,2025-10-05,United States,Sports & Outdoors,4,218.75,875.00,Pending
+ORD-11775,2026-09-05,,Sports & Outdoors,3,23.71,71.13,Processing
+ORD-11776,2026-08-20,Germany,Home & Kitchen,7,44.53,311.71,Completed
+ORD-11777,2025-08-13,Mexico,Electronics,4,244.57,978.28,Completed
+ORD-11768,2025-05-01,United States,Beauty & Personal Care,3,62.63,187.89,Completed
+ORD-11778,2025-07-23,United States,Toys & Games,1,24.14,24.14,Refunded
+ORD-11779,2025-05-01,China,Electronics,3,901.16,"2,703.48",Completed
+ORD-11780,2026-04-17,United States,Home & Kitchen,8,58.28,466.24,Completed
+ORD-11781,,Mexico,Electronics,4,600.04,"2,400.16",Completed
+ORD-11782,2025-09-07,United States,Beauty & Personal Care,7,,,Completed
+ORD-11783,2026-02-28,India,Electronics,2,"1,175.98","2,351.96",Completed
+ORD-11784,2025-10-14,Canada,Books & Media,11,10.19,112.09,Completed
+ORD-11785,2025-12-24,China,Electronics,4,125.21,500.84,Refunded
+ORD-11786,2026-04-08,United States,Books & Media,5,16.21,81.05,Cancelled
+ORD-11787,2025-05-25,,Books & Media,6,71.67,430.02,Pending
+ORD-11788,2026-03-17,United States,Health & Wellness,6,31.65,189.90,Completed
+ORD-11789,2025-08-15,China,Electronics,1,960.35,960.35,Completed
+ORD-11790,2025-11-16,China,Electronics,3,658.72,"1,976.16",Processing
+ORD-11791,2025-06-28,Canada,Electronics,2,688.49,"1,376.98",Processing
+ORD-11792,2026-04-26,Australia,Sports & Outdoors,8,105.43,843.44,Processing
+ORD-11793,2025-11-19,Japan,Toys & Games,3,50.26,150.78,Refunded
+ORD-11794,2026-07-08,India,Sports & Outdoors,3,249.85,749.55,Completed
+ORD-11795,2025-08-10,Germany,Apparel & Accessories,6,167.93,"1,007.58",Completed
+ORD-11796,2025-05-11,Germany,Toys & Games,,15.25,,Completed
+ORD-11797,2025-01-27,United States,Health & Wellness,8,55.20,441.60,Pending
+ORD-11798,2025-01-02,United States,Books & Media,9,,,Completed
+ORD-11799,2026-07-04,United States,Home & Kitchen,3,189.07,567.21,Cancelled
+ORD-11800,2026-05-16,United States,Books & Media,5,32.78,163.90,Cancelled
+ORD-11796,2025-05-11,Germany,Toys & Games,3,15.25,45.75,Completed
+ORD-11801,2025-03-05,United States,Electronics,3,515.04,"1,545.12",Completed
+ORD-11802,2025-10-09,Canada,Books & Media,12,22.86,274.32,Pending
+ORD-11803,2025-11-11,United States,Beauty & Personal Care,5,42.28,211.40,Pending
+ORD-11804,2025-09-20,Australia,Health & Wellness,8,35.33,282.64,Completed
+ORD-11805,,Germany,Health & Wellness,8,20.47,163.76,Refunded
+ORD-11806,2025-10-23,United Kingdom,Home & Kitchen,4,181.69,726.76,Refunded
+ORD-11807,2026-06-24,Australia,Sports & Outdoors,1,60.96,60.96,Refunded
+ORD-11808,2025-07-01,Brazil,Beauty & Personal Care,2,,,Completed
+ORD-11809,2026-01-15,United States,Toys & Games,3,27.84,83.52,Refunded
+ORD-11810,,Canada,Electronics,1,314.10,314.10,Completed
+ORD-11811,2026-05-06,France,Sports & Outdoors,,237.90,,Processing
+ORD-11812,2026-02-13,United Kingdom,Electronics,1,774.07,774.07,Completed
+ORD-11813,2025-07-12,France,Electronics,4,448.44,"1,793.76",Completed
+ORD-11814,2026-08-24,China,Toys & Games,9,68.74,618.66,Completed
+ORD-11815,2025-12-21,United Kingdom,Health & Wellness,10,26.38,263.80,Completed
+ORD-11816,2025-11-03,China,Toys & Games,11,20.51,225.61,
+ORD-11817,2026-06-26,France,Health & Wellness,3,63.61,190.83,Pending
+ORD-11818,2025-06-06,United States,Toys & Games,12,,,Processing
+ORD-11819,2026-05-24,China,Sports & Outdoors,8,37.66,301.28,Completed
+ORD-11820,2025-02-15,China,Home & Kitchen,7,36.29,254.03,Completed
+ORD-11821,2026-04-01,United States,Electronics,2,913.24,"1,826.48",Refunded
+ORD-11822,2026-08-10,United States,Books & Media,6,43.15,258.90,
+ORD-11823,2026-03-16,China,Sports & Outdoors,1,187.63,187.63,Pending
+ORD-11824,2025-05-17,Brazil,Books & Media,2,13.25,26.50,Completed
+ORD-11825,2025-06-27,China,Home & Kitchen,4,116.79,467.16,Processing
+ORD-11826,2026-04-17,France,Beauty & Personal Care,9,16.97,152.73,Completed
+ORD-11827,2025-08-12,China,Health & Wellness,6,65.63,393.78,Cancelled
+ORD-11828,2025-02-26,Canada,Beauty & Personal Care,2,65.28,130.56,Completed
+ORD-11829,2025-11-09,China,Beauty & Personal Care,3,40.44,121.32,Cancelled
+ORD-11830,2026-09-07,China,Health & Wellness,3,,,Completed
+ORD-11831,2025-07-11,Canada,Books & Media,3,74.61,223.83,Completed
+ORD-11832,2025-10-13,Australia,Electronics,3,446.38,"1,339.14",Pending
+ORD-11833,2026-06-16,China,Beauty & Personal Care,6,34.15,204.90,Cancelled
+ORD-11834,2025-03-25,India,Sports & Outdoors,4,16.70,66.80,Refunded
+ORD-11835,2026-06-06,United States,Sports & Outdoors,5,100.28,501.40,Processing
+ORD-11836,2026-06-07,United States,Electronics,4,312.61,"1,250.44",Cancelled
+ORD-11837,2026-04-18,United Kingdom,Apparel & Accessories,6,179.29,"1,075.74",Completed
+ORD-11838,2025-09-22,,Toys & Games,10,72.44,724.40,Cancelled
+ORD-11839,2026-09-20,China,Electronics,4,"1,173.45","4,693.80",Completed
+ORD-11840,2025-01-15,Canada,Books & Media,1,62.72,62.72,Completed
+ORD-11841,2026-04-04,China,Health & Wellness,2,26.98,53.96,Completed
+ORD-11842,2025-11-30,China,,1,23.97,23.97,Cancelled
+ORD-11843,2025-02-05,Canada,Sports & Outdoors,8,177.43,"1,419.44",Completed
+ORD-11844,2025-07-23,United Kingdom,Apparel & Accessories,7,246.01,"1,722.07",Refunded
+ORD-11845,2025-10-13,China,Apparel & Accessories,,99.98,,Processing
+ORD-11846,2026-06-26,Japan,Books & Media,2,68.43,136.86,Pending
+ORD-11847,2025-01-24,United States,Apparel & Accessories,8,44.84,358.72,Completed
+ORD-11848,2026-05-29,United States,Books & Media,11,68.79,756.69,Completed
+ORD-11849,2025-10-24,United States,Electronics,2,934.46,"1,868.92",Completed
+ORD-11850,2026-03-02,United States,Health & Wellness,11,30.14,331.54,Completed
+ORD-11845,2025-10-13,China,Apparel & Accessories,,99.98,,Processing
+ORD-11851,2026-08-29,China,Books & Media,,51.40,,Completed
+ORD-11852,2025-07-10,Japan,,8,22.14,177.12,Cancelled
+ORD-11853,2025-03-11,India,Beauty & Personal Care,3,41.89,125.67,Completed
+ORD-11854,2026-04-12,United States,Apparel & Accessories,4,97.90,391.60,Pending
+ORD-11855,2025-01-09,Japan,Apparel & Accessories,8,22.00,176.00,Completed
+ORD-11856,2025-06-10,United States,Electronics,3,,,Completed
+ORD-11857,2025-11-10,Germany,Apparel & Accessories,3,85.71,257.13,Refunded
+ORD-11858,2026-04-27,India,Health & Wellness,9,42.43,381.87,Completed
+ORD-11859,2025-09-02,China,Health & Wellness,1,25.87,25.87,Completed
+ORD-11860,2026-03-21,Australia,Books & Media,2,44.71,89.42,Processing
+ORD-11861,2026-07-04,United Kingdom,Home & Kitchen,8,136.31,"1,090.48",Refunded
+ORD-11862,2025-01-11,China,Electronics,4,"1,123.90","4,495.60",Completed
+ORD-11863,2025-11-11,Brazil,Sports & Outdoors,4,184.69,738.76,Processing
+ORD-11864,2026-03-22,United States,Apparel & Accessories,5,246.98,"1,234.90",Cancelled
+ORD-11865,2026-03-21,United States,Books & Media,2,42.49,84.98,Completed
+ORD-11866,2025-10-28,India,Health & Wellness,3,46.63,139.89,Completed
+ORD-11867,2025-05-16,United States,Sports & Outdoors,5,244.91,"1,224.55",Completed
+ORD-11868,2025-10-08,United States,Beauty & Personal Care,8,39.62,316.96,Pending
+ORD-11869,2025-06-03,United States,Health & Wellness,9,52.46,472.14,Cancelled
+ORD-11870,2025-05-11,Mexico,Beauty & Personal Care,9,58.18,523.62,Completed
+ORD-11871,2026-04-27,United Kingdom,Books & Media,2,9.45,18.90,Cancelled
+ORD-11872,2026-02-08,United States,Sports & Outdoors,5,203.52,"1,017.60",Completed
+ORD-11873,,United States,,3,200.99,602.97,Completed
+ORD-11874,2026-04-29,United States,Beauty & Personal Care,1,14.29,14.29,Processing
+ORD-11875,2025-08-10,United States,Health & Wellness,,70.64,,Completed
+ORD-11876,2026-08-26,United States,Books & Media,1,78.84,78.84,Pending
+ORD-11877,2026-01-20,Japan,Apparel & Accessories,2,176.54,353.08,Pending
+ORD-11878,2026-06-17,Brazil,Books & Media,11,20.54,225.94,Cancelled
+ORD-11879,2025-07-26,Australia,Health & Wellness,2,45.52,91.04,Pending
+ORD-11880,2025-01-05,United States,Apparel & Accessories,4,218.88,875.52,Pending
+ORD-11881,2026-01-13,United Kingdom,Toys & Games,3,38.25,114.75,Completed
+ORD-11882,2025-07-22,China,Beauty & Personal Care,11,11.31,124.41,Processing
+ORD-11883,,Japan,Electronics,3,"1,118.87","3,356.61",Pending
+ORD-11884,,Japan,Apparel & Accessories,4,142.01,568.04,Completed
+ORD-11885,2026-07-15,United States,Home & Kitchen,1,128.60,128.60,Completed
+ORD-11886,2026-09-20,China,Apparel & Accessories,6,152.63,915.78,Completed
+ORD-11887,2025-07-14,United Kingdom,Electronics,1,,,Completed
+ORD-11888,2025-05-31,,Sports & Outdoors,7,243.15,"1,702.05",Refunded
+ORD-11889,2025-11-21,China,Health & Wellness,2,24.61,49.22,Processing
+ORD-11890,2025-09-22,Canada,Beauty & Personal Care,1,39.61,39.61,Completed
+ORD-11891,2026-04-15,Australia,Books & Media,9,14.52,130.68,Completed
+ORD-11892,2026-01-28,United States,Sports & Outdoors,6,21.64,129.84,Cancelled
+ORD-11893,2026-05-28,,Books & Media,8,56.55,452.40,Completed
+ORD-11894,2026-08-30,Brazil,Books & Media,9,58.32,524.88,Cancelled
+ORD-11895,2025-07-15,China,Toys & Games,9,52.33,470.97,Completed
+ORD-11896,2025-11-15,United States,Beauty & Personal Care,3,41.31,123.93,Completed
+ORD-11897,2026-08-08,Germany,Books & Media,10,26.40,264.00,Completed
+ORD-11898,2025-04-07,United States,Health & Wellness,2,19.30,38.60,Completed
+ORD-11899,2026-03-09,,,5,51.49,257.45,Pending
+ORD-11900,2025-08-21,United States,Books & Media,1,17.28,17.28,Processing
+ORD-11901,2026-08-02,Germany,Apparel & Accessories,2,222.83,445.66,Completed
+ORD-11902,2026-05-11,Japan,Apparel & Accessories,3,118.71,356.13,Completed
+ORD-11903,2025-11-02,China,Books & Media,11,31.44,345.84,Completed
+ORD-11904,2026-02-16,India,Books & Media,3,27.04,81.12,Completed
+ORD-11905,2025-10-21,Japan,Toys & Games,2,22.33,44.66,Cancelled
+ORD-11906,2025-08-22,China,Home & Kitchen,3,25.13,75.39,Processing
+ORD-11907,2025-11-28,United States,Home & Kitchen,7,67.34,471.38,Processing
+ORD-11908,,France,Health & Wellness,3,13.73,41.19,Refunded
+ORD-11909,2026-01-07,Germany,Beauty & Personal Care,11,66.28,729.08,Completed
+ORD-11910,2025-08-06,United Kingdom,Toys & Games,12,22.14,265.68,Pending
+ORD-11911,2025-03-22,China,Health & Wellness,1,70.76,70.76,Completed
+ORD-11912,2025-09-27,China,Home & Kitchen,6,180.58,"1,083.48",Completed
+ORD-11913,2025-01-07,United States,Toys & Games,11,73.41,807.51,Cancelled
+ORD-11914,2025-10-31,China,Toys & Games,7,,,Refunded
+ORD-11915,2025-08-08,United States,Beauty & Personal Care,11,84.29,927.19,Processing
+ORD-11916,2025-01-22,,Apparel & Accessories,6,246.30,"1,477.80",Completed
+ORD-11917,2026-02-18,Canada,Beauty & Personal Care,4,25.51,102.04,Completed
+ORD-11918,2026-01-13,United States,Electronics,3,"1,052.55","3,157.65",Cancelled
+ORD-11919,2026-07-25,United States,Apparel & Accessories,8,129.17,"1,033.36",Completed
+ORD-11920,2025-06-01,United States,Health & Wellness,2,50.57,101.14,Completed
+ORD-11921,2025-08-05,United States,Home & Kitchen,6,133.53,801.18,Processing
+ORD-11922,2025-07-18,India,Home & Kitchen,5,116.06,580.30,Completed
+ORD-11923,2025-06-08,China,Apparel & Accessories,8,192.00,"1,536.00",Completed
+ORD-11924,2026-07-11,United Kingdom,Sports & Outdoors,8,180.99,"1,447.92",Completed
+ORD-11925,2026-02-27,Germany,Apparel & Accessories,3,123.82,371.46,Pending
+ORD-11926,2025-10-12,United States,Toys & Games,1,70.99,70.99,Pending
+ORD-11927,,United States,Toys & Games,4,8.28,33.12,Processing
+ORD-11928,2025-09-24,United States,Electronics,2,58.85,117.70,
+ORD-11929,2025-09-09,Germany,Home & Kitchen,7,184.67,"1,292.69",Pending
+ORD-11930,2026-09-23,United States,Electronics,4,,,Refunded
+ORD-11931,2026-09-17,United States,Apparel & Accessories,6,197.33,"1,183.98",Refunded
+ORD-11932,2025-10-21,United Kingdom,,10,62.25,622.50,Completed
+ORD-11933,2025-05-06,China,Beauty & Personal Care,10,30.22,302.20,Completed
+ORD-11934,2025-10-08,Mexico,Sports & Outdoors,1,141.22,141.22,Refunded
+ORD-11935,2026-08-28,,Apparel & Accessories,6,174.24,"1,045.44",Completed
+ORD-11936,2026-05-09,China,Electronics,2,579.33,"1,158.66",Cancelled
+ORD-11937,2025-07-11,United States,Apparel & Accessories,7,89.96,629.72,Completed
+ORD-11938,2026-03-27,Australia,Books & Media,8,79.72,637.76,Completed
+ORD-11939,2025-03-15,China,Electronics,3,481.96,"1,445.88",Refunded
+ORD-11940,2025-07-23,United States,Home & Kitchen,8,81.13,649.04,Processing
+ORD-11941,2026-01-19,Australia,Beauty & Personal Care,4,20.35,81.40,Refunded
+ORD-11942,2025-12-30,India,Toys & Games,11,31.73,349.03,Completed
+ORD-11943,2025-05-01,United Kingdom,Home & Kitchen,8,66.06,528.48,Refunded
+ORD-11944,2025-02-15,United Kingdom,Electronics,3,978.87,"2,936.61",Processing
+ORD-11945,2026-07-11,United Kingdom,Sports & Outdoors,3,128.97,386.91,Refunded
+ORD-11946,2026-06-04,China,Toys & Games,,40.43,,Pending
+ORD-11947,2025-12-08,China,Sports & Outdoors,2,245.34,490.68,Processing
+ORD-11948,2025-02-26,India,Health & Wellness,4,64.70,258.80,Completed
+ORD-11949,2026-03-30,France,Beauty & Personal Care,7,81.72,572.04,Pending
+ORD-11950,2026-05-20,Australia,Electronics,1,334.02,334.02,Processing
+ORD-11951,2026-04-28,China,Toys & Games,,80.03,,Completed
+ORD-11952,2025-06-01,Australia,Health & Wellness,,32.55,,Completed
+ORD-11953,2025-10-14,Japan,Electronics,2,507.38,"1,014.76",Completed
+ORD-11954,2025-08-29,United States,Home & Kitchen,2,247.41,494.82,Pending
+ORD-11955,2025-03-22,France,Beauty & Personal Care,5,54.98,274.90,Completed
+ORD-11956,2026-05-25,Australia,Health & Wellness,2,68.47,136.94,Refunded
+ORD-11957,2025-10-17,United States,Apparel & Accessories,3,162.30,486.90,Completed
+ORD-11958,2025-05-11,China,Home & Kitchen,6,42.90,257.40,Completed
+ORD-11959,2025-06-22,India,Toys & Games,8,38.37,306.96,Completed
+ORD-11960,2025-11-29,United States,Apparel & Accessories,8,85.88,687.04,Completed
+Total,,,,"9,666",,"10,92,214.60",
